@@ -1,0 +1,2 @@
+# 6th_integrated_circuit_eda_elite_challenge_question10_dataset
+该git存储了第六届EDA精英挑战赛赛题10所提供的标注文件。
