@@ -1,0 +1,650 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          38.0,
+          160.0
+        ],
+        [
+          46.0,
+          167.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          66.0,
+          153.0
+        ],
+        [
+          75.0,
+          174.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          287.0,
+          201.0
+        ],
+        [
+          296.0,
+          222.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          549.0,
+          304.0
+        ],
+        [
+          558.0,
+          312.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          550.0,
+          20.0
+        ],
+        [
+          557.0,
+          27.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          311.0,
+          241.0
+        ],
+        [
+          324.0,
+          262.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          183.0,
+          152.0
+        ],
+        [
+          196.0,
+          175.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          81.0,
+          231.0
+        ],
+        [
+          107.0,
+          238.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          494.0,
+          33.0
+        ],
+        [
+          503.0,
+          50.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          258.0,
+          88.0
+        ],
+        [
+          281.0,
+          98.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          474.0,
+          33.0
+        ],
+        [
+          483.0,
+          50.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          160.0,
+          37.0
+        ],
+        [
+          171.0,
+          55.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          488.0,
+          196.0
+        ],
+        [
+          499.0,
+          219.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          316.0,
+          32.0
+        ],
+        [
+          326.0,
+          51.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          550.0,
+          160.0
+        ],
+        [
+          558.0,
+          167.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          235.0,
+          159.0
+        ],
+        [
+          252.0,
+          169.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          206.0,
+          209.0
+        ],
+        [
+          229.0,
+          218.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          474.0,
+          173.0
+        ],
+        [
+          484.0,
+          190.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          135.0,
+          152.0
+        ],
+        [
+          148.0,
+          175.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          429.1222,
+          178.1166
+        ],
+        [
+          438.1222,
+          195.1124
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          316.0,
+          69.0
+        ],
+        [
+          327.0,
+          87.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          424.0,
+          229.0
+        ],
+        [
+          435.0,
+          250.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          493.0,
+          173.0
+        ],
+        [
+          503.0,
+          190.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          424.0,
+          89.0
+        ],
+        [
+          436.0,
+          110.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          428.0,
+          37.0
+        ],
+        [
+          438.0,
+          54.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          473.0,
+          277.0
+        ],
+        [
+          482.0,
+          295.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          213.0,
+          177.0
+        ],
+        [
+          222.0,
+          194.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp-cross",
+      "points": [
+        [
+          469.0,
+          57.0
+        ],
+        [
+          480.0,
+          78.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          522.0,
+          229.0
+        ],
+        [
+          545.0,
+          238.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          529.0,
+          181.0
+        ],
+        [
+          538.0,
+          198.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          384.0167,
+          197.6264
+        ],
+        [
+          394.0157,
+          214.6275
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          387.0,
+          253.0
+        ],
+        [
+          399.0,
+          274.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          88.3003,
+          181.4414
+        ],
+        [
+          98.3017,
+          198.8437
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2_3",
+      "points": [
+        [
+          139.0,
+          269.0
+        ],
+        [
+          150.0,
+          287.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp-cross",
+      "points": [
+        [
+          468.0,
+          196.0
+        ],
+        [
+          479.0,
+          218.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          204.7213,
+          231.2187
+        ],
+        [
+          230.7246,
+          238.2185
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          340.8879,
+          230.5379
+        ],
+        [
+          366.8822,
+          237.5305
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          520.346,
+          274.4185
+        ],
+        [
+          546.3488,
+          281.4176
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          489.2289,
+          56.2025
+        ],
+        [
+          500.2263,
+          80.207
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          105.6977,
+          159.7391
+        ],
+        [
+          122.6051,
+          169.5019
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "3799.jpg",
+  "imageData": null,
+  "imageHeight": 331,
+  "imageWidth": 637
+}

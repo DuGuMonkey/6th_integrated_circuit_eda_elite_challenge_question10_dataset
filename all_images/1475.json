@@ -1,0 +1,538 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          277.0,
+          78.0
+        ],
+        [
+          285.0,
+          86.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          489.0,
+          202.0
+        ],
+        [
+          512.0,
+          243.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          380.0,
+          308.0
+        ],
+        [
+          403.0,
+          348.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          102.7123,
+          118.8369
+        ],
+        [
+          124.7183,
+          157.8339
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          15.0,
+          80.0
+        ],
+        [
+          23.0,
+          88.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          575.0,
+          83.0
+        ],
+        [
+          590.0,
+          118.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          398.0,
+          66.0
+        ],
+        [
+          421.0,
+          110.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          235.0,
+          191.0
+        ],
+        [
+          252.0,
+          225.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          64.0,
+          227.0
+        ],
+        [
+          86.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          15.0,
+          244.0
+        ],
+        [
+          24.0,
+          252.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          56.0,
+          39.0
+        ],
+        [
+          72.0,
+          74.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          448.0,
+          202.0
+        ],
+        [
+          471.0,
+          244.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          146.0,
+          307.0
+        ],
+        [
+          170.0,
+          349.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          222.0,
+          40.0
+        ],
+        [
+          238.0,
+          76.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          211.0,
+          226.0
+        ],
+        [
+          233.0,
+          269.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          486.0,
+          67.0
+        ],
+        [
+          510.0,
+          108.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          173.0,
+          122.0
+        ],
+        [
+          194.0,
+          160.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          16.0,
+          138.0
+        ],
+        [
+          24.0,
+          146.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          345.0,
+          68.0
+        ],
+        [
+          369.0,
+          110.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          448.0,
+          67.0
+        ],
+        [
+          473.0,
+          109.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          46.0,
+          192.0
+        ],
+        [
+          61.0,
+          226.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          564.0,
+          202.0
+        ],
+        [
+          586.0,
+          244.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          328.0,
+          165.0
+        ],
+        [
+          350.0,
+          206.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          264.0,
+          39.0
+        ],
+        [
+          281.0,
+          74.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          274.0,
+          243.0
+        ],
+        [
+          282.0,
+          250.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          500.0,
+          270.0
+        ],
+        [
+          518.0,
+          308.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          229.0,
+          121.0
+        ],
+        [
+          250.0,
+          160.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          393.0,
+          379.0
+        ],
+        [
+          407.0,
+          387.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          138.0,
+          39.0
+        ],
+        [
+          154.0,
+          75.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          46.0431,
+          122.289
+        ],
+        [
+          68.0463,
+          161.2887
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          141.2536,
+          147.6867
+        ],
+        [
+          150.2529,
+          155.6869
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          543.6209,
+          152.3343
+        ],
+        [
+          565.6236,
+          193.334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          344.8564,
+          236.4131
+        ],
+        [
+          366.858,
+          279.4128
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "6071.jpg",
+  "imageData": null,
+  "imageHeight": 418,
+  "imageWidth": 590
+}

@@ -1,0 +1,154 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          308.0,
+          135.0
+        ],
+        [
+          342.0,
+          152.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          167.0,
+          61.0
+        ],
+        [
+          182.0,
+          93.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          191.0,
+          135.0
+        ],
+        [
+          224.505,
+          167.4036
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          55.0,
+          33.0
+        ],
+        [
+          76.0,
+          40.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          98.0,
+          169.0
+        ],
+        [
+          132.0,
+          186.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          48.0,
+          175.0
+        ],
+        [
+          53.0,
+          180.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          158.0,
+          161.0
+        ],
+        [
+          178.0,
+          194.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          163.0,
+          267.0
+        ],
+        [
+          186.0,
+          283.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          76.7394,
+          174.1051
+        ],
+        [
+          83.759,
+          181.4451
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2029.jpg",
+  "imageData": null,
+  "imageHeight": 300,
+  "imageWidth": 377
+}

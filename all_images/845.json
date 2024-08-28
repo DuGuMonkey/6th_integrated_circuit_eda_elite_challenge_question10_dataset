@@ -1,0 +1,314 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "single-input-single-end-amp",
+      "points": [
+        [
+          286.0,
+          271.0
+        ],
+        [
+          381.0,
+          401.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-input-single-end-amp",
+      "points": [
+        [
+          285.0,
+          114.0
+        ],
+        [
+          383.0,
+          242.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          475.0,
+          352.0
+        ],
+        [
+          524.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          172.0,
+          13.0
+        ],
+        [
+          221.0,
+          43.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          410.0,
+          261.0
+        ],
+        [
+          492.0,
+          301.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          172.0,
+          138.0
+        ],
+        [
+          221.0,
+          157.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          172.0,
+          414.0
+        ],
+        [
+          220.0,
+          442.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          172.0,
+          72.0
+        ],
+        [
+          222.0,
+          101.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          60.0,
+          261.0
+        ],
+        [
+          141.0,
+          303.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          170.0,
+          471.0
+        ],
+        [
+          221.0,
+          500.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          172.0,
+          357.0
+        ],
+        [
+          220.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          27.0,
+          132.0
+        ],
+        [
+          79.0,
+          164.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          140.0,
+          106.0
+        ],
+        [
+          190.0,
+          133.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          140.0,
+          381.0
+        ],
+        [
+          191.0,
+          408.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          130.3617,
+          389.7661
+        ],
+        [
+          138.5548,
+          396.8648
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          525.1335,
+          174.1866
+        ],
+        [
+          533.3386,
+          181.2803
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          58.4932,
+          212.1154
+        ],
+        [
+          140.4979,
+          252.1195
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          410.0643,
+          214.0
+        ],
+        [
+          492.0693,
+          254.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          131.8191,
+          116.1922
+        ],
+        [
+          140.0157,
+          123.2928
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Ultrabroadband Linear Power Amplifier Using a Frequency-Selective Analog Predistorter_6.jpg",
+  "imageData": null,
+  "imageHeight": 503,
+  "imageWidth": 541
+}

@@ -1,0 +1,330 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          561.0,
+          495.0
+        ],
+        [
+          583.0,
+          519.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          533.0,
+          94.0
+        ],
+        [
+          575.0,
+          146.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          232.0,
+          309.0
+        ],
+        [
+          264.0,
+          336.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          277.0,
+          296.0
+        ],
+        [
+          318.0,
+          350.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          646.0,
+          271.0
+        ],
+        [
+          679.0,
+          299.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          73.0,
+          307.0
+        ],
+        [
+          109.0,
+          339.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          297.0,
+          56.0
+        ],
+        [
+          329.0,
+          78.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          146.0,
+          54.0
+        ],
+        [
+          174.0,
+          78.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          395.0,
+          94.0
+        ],
+        [
+          436.0,
+          146.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          313.0,
+          94.0
+        ],
+        [
+          354.0,
+          147.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          119.0,
+          296.0
+        ],
+        [
+          164.0,
+          349.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          223.0,
+          492.0
+        ],
+        [
+          247.0,
+          520.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          152.0,
+          432.0
+        ],
+        [
+          188.0,
+          465.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          194.0,
+          420.0
+        ],
+        [
+          240.0,
+          476.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          156.0,
+          93.0
+        ],
+        [
+          201.0,
+          146.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          422.0,
+          495.0
+        ],
+        [
+          445.0,
+          519.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          533.0,
+          423.0
+        ],
+        [
+          576.0,
+          477.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          429.0,
+          423.0
+        ],
+        [
+          472.0,
+          477.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          418.2999,
+          53.136
+        ],
+        [
+          450.2918,
+          75.1338
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          557.1701,
+          53.7298
+        ],
+        [
+          589.1766,
+          75.7274
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A 10.6-mW 26.4-GHz Dual-Loop Type-II Phase-Locked Loop Using Dynamic Frequency Detector and Phase Detector_2.jpg",
+  "imageData": null,
+  "imageHeight": 529,
+  "imageWidth": 725
+}

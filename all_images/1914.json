@@ -1,0 +1,106 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          43.0,
+          33.0
+        ],
+        [
+          67.0,
+          77.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          38.0,
+          7.0
+        ],
+        [
+          72.0,
+          17.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          23.0,
+          124.0
+        ],
+        [
+          57.0,
+          157.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          9.0,
+          138.0
+        ],
+        [
+          15.0,
+          144.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          113.0,
+          122.0
+        ],
+        [
+          146.0,
+          153.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          49.0847,
+          182.0659
+        ],
+        [
+          56.8234,
+          186.7454
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A Noise Reconfigurable All-Digital Phase-Locked Loop Using a Switched Capacitor-Based Frequency-Locked Loop and a Noise Detector_13.jpg",
+  "imageData": null,
+  "imageHeight": 212,
+  "imageWidth": 196
+}

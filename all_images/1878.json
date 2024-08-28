@@ -1,0 +1,506 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos",
+      "points": [
+        [
+          683.0,
+          153.0
+        ],
+        [
+          729.0,
+          226.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          151.0,
+          696.0
+        ],
+        [
+          194.0,
+          768.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          68.0,
+          695.0
+        ],
+        [
+          112.0,
+          769.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          391.0,
+          154.0
+        ],
+        [
+          438.0,
+          228.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          764.0,
+          888.0
+        ],
+        [
+          790.0,
+          902.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          523.0,
+          589.0
+        ],
+        [
+          548.0,
+          651.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          605.0,
+          700.0
+        ],
+        [
+          647.0,
+          772.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          470.0,
+          346.0
+        ],
+        [
+          517.0,
+          419.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          1003.0,
+          747.0
+        ],
+        [
+          1045.0,
+          823.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          862.0,
+          153.0
+        ],
+        [
+          910.0,
+          227.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          1228.0,
+          747.0
+        ],
+        [
+          1271.0,
+          821.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          95.0,
+          223.0
+        ],
+        [
+          121.0,
+          285.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          830.0,
+          697.0
+        ],
+        [
+          874.0,
+          770.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          720.0,
+          693.0
+        ],
+        [
+          764.0,
+          768.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          1356.0,
+          155.0
+        ],
+        [
+          1404.0,
+          229.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          215.0,
+          544.0
+        ],
+        [
+          261.0,
+          618.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          746.0,
+          55.0
+        ],
+        [
+          792.0,
+          73.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          273.0,
+          345.0
+        ],
+        [
+          325.0,
+          419.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          596.763,
+          152.0
+        ],
+        [
+          644.7696,
+          225.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1050.0,
+          551.0
+        ],
+        [
+          1097.0,
+          581.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          1221.7689,
+          157.2451
+        ],
+        [
+          1268.7614,
+          230.2483
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          1005.2454,
+          156.0
+        ],
+        [
+          1052.2425,
+          228.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1386.0,
+          650.0
+        ],
+        [
+          1411.0,
+          713.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          315.0,
+          695.0
+        ],
+        [
+          356.0,
+          768.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1252.0,
+          611.0
+        ],
+        [
+          1277.0,
+          672.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          576.0,
+          537.0
+        ],
+        [
+          597.0,
+          602.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          436.0,
+          696.0
+        ],
+        [
+          479.0,
+          769.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1177.0,
+          554.0
+        ],
+        [
+          1221.0,
+          583.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1125.0,
+          621.0
+        ],
+        [
+          1152.0,
+          683.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          211.0292,
+          733.4026
+        ],
+        [
+          218.5681,
+          738.234
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          1426.8545,
+          478.7807
+        ],
+        [
+          1437.275,
+          487.8968
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A low power CMOS current mode bandgap reference circuit with low temperature coefficient of output voltage_3.jpg",
+  "imageData": null,
+  "imageHeight": 979,
+  "imageWidth": 1523
+}

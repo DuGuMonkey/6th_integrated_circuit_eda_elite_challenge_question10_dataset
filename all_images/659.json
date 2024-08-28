@@ -1,0 +1,186 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          0.0,
+          197.7679
+        ],
+        [
+          2.8032,
+          204.1059
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          210.0476,
+          434.7397
+        ],
+        [
+          249.3892,
+          458.8933
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          136.8603,
+          435.2448
+        ],
+        [
+          176.2086,
+          459.4043
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          62.9698,
+          449.1403
+        ],
+        [
+          102.3097,
+          473.3091
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          214.0927,
+          318.525
+        ],
+        [
+          244.4138,
+          376.8859
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          66.6091,
+          361.9571
+        ],
+        [
+          96.9256,
+          420.318
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          68.6836,
+          258.0824
+        ],
+        [
+          96.5046,
+          318.9077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          38.1309,
+          164.2122
+        ],
+        [
+          95.1151,
+          233.2232
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          0.0,
+          331.1093
+        ],
+        [
+          2.4573,
+          335.5952
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          135.9143,
+          330.0688
+        ],
+        [
+          174.7011,
+          350.6075
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          65.3827,
+          64.9832
+        ],
+        [
+          99.7048,
+          74.1853
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of Output Capacitorless Low Dropout Regulator with Fast Transition Response.pdf_page1_image2.png",
+  "imageData": null,
+  "imageHeight": 509,
+  "imageWidth": 358
+}

@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos",
+      "points": [
+        [
+          68.0,
+          121.0
+        ],
+        [
+          94.0,
+          151.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          81.0,
+          15.0
+        ],
+        [
+          103.0,
+          23.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          68.0,
+          121.0
+        ],
+        [
+          94.0,
+          151.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          113.0397,
+          66.8902
+        ],
+        [
+          124.0385,
+          74.8941
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          74.0,
+          176.0
+        ],
+        [
+          107.0,
+          190.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          79.0,
+          36.0
+        ],
+        [
+          103.0,
+          59.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          40.0778,
+          133.5729
+        ],
+        [
+          51.0722,
+          141.5777
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Time-Shared DAC in SAR ADC for Tx Beamforming of Ultrasound Application_10.jpg",
+  "imageData": null,
+  "imageHeight": 191,
+  "imageWidth": 166
+}

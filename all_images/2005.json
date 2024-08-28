@@ -1,0 +1,266 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          814.0,
+          190.0
+        ],
+        [
+          827.0,
+          204.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          233.0,
+          301.0
+        ],
+        [
+          260.0,
+          319.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          554.0,
+          40.0
+        ],
+        [
+          577.0,
+          85.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          553.0,
+          95.0
+        ],
+        [
+          577.0,
+          150.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          16.0,
+          190.0
+        ],
+        [
+          30.0,
+          204.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          734.0,
+          233.0
+        ],
+        [
+          751.0,
+          264.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          761.0,
+          240.0
+        ],
+        [
+          786.0,
+          255.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          729.0,
+          302.0
+        ],
+        [
+          757.0,
+          320.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          466.0,
+          237.0
+        ],
+        [
+          482.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          461.0,
+          304.0
+        ],
+        [
+          488.0,
+          323.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          237.0,
+          232.0
+        ],
+        [
+          254.0,
+          262.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          493.0,
+          241.0
+        ],
+        [
+          518.0,
+          256.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          264.0,
+          236.0
+        ],
+        [
+          290.0,
+          251.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-input-single-end-amp",
+      "points": [
+        [
+          81.1071,
+          157.451
+        ],
+        [
+          214.2578,
+          240.9088
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-input-single-end-amp",
+      "points": [
+        [
+          514.0908,
+          153.6951
+        ],
+        [
+          647.2483,
+          237.1444
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-input-single-end-amp",
+      "points": [
+        [
+          321.9712,
+          154.1764
+        ],
+        [
+          455.1158,
+          237.6229
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "An Output-Capacitorless Low-Dropout Regulator with High Slew Rate and Unity-Gain Bandwidth_1.jpg",
+  "imageData": null,
+  "imageHeight": 330,
+  "imageWidth": 832
+}

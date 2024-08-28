@@ -1,0 +1,538 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pnp",
+      "points": [
+        [
+          730.0,
+          432.0
+        ],
+        [
+          759.0,
+          473.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          279.0,
+          432.0
+        ],
+        [
+          307.0,
+          472.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          508.0,
+          150.0
+        ],
+        [
+          607.0,
+          234.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          440.0,
+          61.0
+        ],
+        [
+          477.0,
+          115.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          634.0,
+          343.0
+        ],
+        [
+          655.0,
+          389.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          449.0,
+          433.0
+        ],
+        [
+          478.0,
+          474.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          292.0,
+          344.0
+        ],
+        [
+          314.0,
+          389.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          743.0,
+          29.0
+        ],
+        [
+          769.0,
+          39.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          620.0,
+          431.0
+        ],
+        [
+          647.0,
+          472.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          298.0,
+          63.0
+        ],
+        [
+          335.0,
+          116.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          122.0,
+          61.0
+        ],
+        [
+          160.0,
+          115.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          339.0,
+          150.0
+        ],
+        [
+          437.0,
+          234.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          721.0,
+          63.0
+        ],
+        [
+          760.0,
+          117.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          41.0,
+          62.0
+        ],
+        [
+          77.0,
+          116.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          113.0,
+          429.0
+        ],
+        [
+          136.0,
+          475.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          796.0,
+          287.0
+        ],
+        [
+          825.0,
+          303.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          744.0,
+          344.0
+        ],
+        [
+          768.0,
+          391.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          610.0,
+          63.0
+        ],
+        [
+          647.0,
+          116.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          163.0,
+          149.0
+        ],
+        [
+          264.0,
+          232.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          115.9369,
+          498.5481
+        ],
+        [
+          132.8152,
+          511.2038
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          254.888,
+          497.862
+        ],
+        [
+          271.7519,
+          510.522
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          296.2257,
+          498.5444
+        ],
+        [
+          313.0994,
+          511.2096
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          422.9547,
+          499.2249
+        ],
+        [
+          439.8333,
+          511.887
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          462.952,
+          497.8699
+        ],
+        [
+          479.8263,
+          510.5265
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          596.4638,
+          497.8635
+        ],
+        [
+          613.3443,
+          510.5292
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          634.4286,
+          499.2273
+        ],
+        [
+          651.2987,
+          511.8894
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          705.5897,
+          499.2257
+        ],
+        [
+          722.4639,
+          511.2187
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          750.3263,
+          497.1991
+        ],
+        [
+          767.194,
+          509.8434
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          631.3918,
+          28.5244
+        ],
+        [
+          657.3921,
+          39.8009
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          461.1088,
+          27.2233
+        ],
+        [
+          487.1079,
+          38.5157
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          288.5338,
+          28.5363
+        ],
+        [
+          314.536,
+          39.8272
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          113.3336,
+          27.5523
+        ],
+        [
+          139.3366,
+          38.8384
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          31.2912,
+          27.5504
+        ],
+        [
+          57.2968,
+          38.8327
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A sub-1-ppm--C curvature-compensated bandgap voltage reference_1.jpg",
+  "imageData": null,
+  "imageHeight": 538,
+  "imageWidth": 835
+}

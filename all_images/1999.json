@@ -1,0 +1,186 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          91.0,
+          116.0
+        ],
+        [
+          249.0,
+          297.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          531.0,
+          362.0
+        ],
+        [
+          566.0,
+          384.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          286.0,
+          388.0
+        ],
+        [
+          317.0,
+          444.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          380.0,
+          480.0
+        ],
+        [
+          412.0,
+          502.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          285.0,
+          300.0
+        ],
+        [
+          317.0,
+          355.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          66.0,
+          160.0
+        ],
+        [
+          76.0,
+          170.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          532.0,
+          479.0
+        ],
+        [
+          564.0,
+          502.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          370.0,
+          343.0
+        ],
+        [
+          423.0,
+          395.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          343.4484,
+          167.4411
+        ],
+        [
+          401.4417,
+          245.4478
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          285.0,
+          479.0
+        ],
+        [
+          319.0,
+          501.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          388.0767,
+          48.3081
+        ],
+        [
+          404.7811,
+          58.8497
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "An External Capacitorless Low-Dropout Regulator With 5.58uV Integrated Output Noise From 10 Hz to 100kHz Using Adaptive Bias Technique_0.jpg",
+  "imageData": null,
+  "imageHeight": 503,
+  "imageWidth": 603
+}

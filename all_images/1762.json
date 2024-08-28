@@ -1,0 +1,298 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "vdd",
+      "points": [
+        [
+          230.0,
+          12.0
+        ],
+        [
+          273.0,
+          30.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          323.0,
+          329.0
+        ],
+        [
+          367.0,
+          387.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diff-amp",
+      "points": [
+        [
+          207.0,
+          168.0
+        ],
+        [
+          294.0,
+          247.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          215.0,
+          583.0
+        ],
+        [
+          258.0,
+          639.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          132.0,
+          64.0
+        ],
+        [
+          177.0,
+          121.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          131.0,
+          329.0
+        ],
+        [
+          176.0,
+          387.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          166.0,
+          604.0
+        ],
+        [
+          180.0,
+          619.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          207.0,
+          355.0
+        ],
+        [
+          294.0,
+          435.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          323.0,
+          63.0
+        ],
+        [
+          367.0,
+          121.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          452.0,
+          488.0
+        ],
+        [
+          466.0,
+          503.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          27.0,
+          488.0
+        ],
+        [
+          41.0,
+          502.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          131.0,
+          216.0
+        ],
+        [
+          177.0,
+          272.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          294.0,
+          291.0
+        ],
+        [
+          309.0,
+          305.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          192.0,
+          291.0
+        ],
+        [
+          206.0,
+          305.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          357.0,
+          467.0
+        ],
+        [
+          401.0,
+          523.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          97.0,
+          466.0
+        ],
+        [
+          140.0,
+          523.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          323.0,
+          216.0
+        ],
+        [
+          367.0,
+          272.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          241.2676,
+          681.6024
+        ],
+        [
+          266.2607,
+          700.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A 168 dB high gain folded cascode operational amplifier for Delta-Sigma ADC_1.jpg",
+  "imageData": null,
+  "imageHeight": 700,
+  "imageWidth": 479
+}

@@ -1,0 +1,442 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          481.5738,
+          255.9242
+        ],
+        [
+          509.2547,
+          294.0612
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          47.9649,
+          392.3881
+        ],
+        [
+          68.2505,
+          401.2488
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          144.5341,
+          392.695
+        ],
+        [
+          164.827,
+          401.5503
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          316.026,
+          393.3528
+        ],
+        [
+          336.3269,
+          402.205
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          50.113,
+          198.7325
+        ],
+        [
+          65.1815,
+          218.5707
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          232.4907,
+          159.216
+        ],
+        [
+          252.9852,
+          174.8921
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          404.1525,
+          158.9454
+        ],
+        [
+          426.4996,
+          174.8932
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          559.788,
+          207.1222
+        ],
+        [
+          583.1605,
+          223.3056
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          345.4168,
+          222.1278
+        ],
+        [
+          373.0902,
+          260.2693
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          150.9911,
+          65.2009
+        ],
+        [
+          178.661,
+          103.3345
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          437.0614,
+          241.5187
+        ],
+        [
+          452.6999,
+          259.3646
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          365.1391,
+          356.4671
+        ],
+        [
+          376.346,
+          379.7429
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          280.4935,
+          355.8277
+        ],
+        [
+          291.7031,
+          379.1094
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          389.8726,
+          245.0195
+        ],
+        [
+          416.0293,
+          255.5471
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          383.1843,
+          312.2902
+        ],
+        [
+          389.8701,
+          318.6785
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          302.1425,
+          63.8132
+        ],
+        [
+          329.8205,
+          101.9514
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          275.8022,
+          146.1254
+        ],
+        [
+          303.4877,
+          184.2681
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          52.7056,
+          256.568
+        ],
+        [
+          80.3826,
+          294.692
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          354.2345,
+          147.5024
+        ],
+        [
+          381.9136,
+          185.641
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          151.5599,
+          138.2658
+        ],
+        [
+          179.2305,
+          176.4055
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          131.788,
+          255.6005
+        ],
+        [
+          159.4539,
+          293.7404
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          483.1677,
+          138.5805
+        ],
+        [
+          510.8485,
+          176.7143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          280.6842,
+          296.7374
+        ],
+        [
+          308.3643,
+          334.8792
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          344.1456,
+          294.8264
+        ],
+        [
+          371.8259,
+          332.963
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          281.641,
+          221.1648
+        ],
+        [
+          309.3251,
+          259.3064
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          145.3076,
+          41.6502
+        ],
+        [
+          165.6005,
+          50.5143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          316.5525,
+          41.4753
+        ],
+        [
+          336.8464,
+          50.3289
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A Low-Noise CMOS Front-End with 534 M- Transimpedance Gain for Single-Molecule Signal Acquisition_3.jpg",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 594
+}

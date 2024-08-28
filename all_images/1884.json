@@ -1,0 +1,394 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          326.0,
+          300.0
+        ],
+        [
+          364.0,
+          340.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          766.0,
+          169.0
+        ],
+        [
+          791.0,
+          189.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          194.0,
+          203.0
+        ],
+        [
+          235.0,
+          245.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          415.0,
+          485.0
+        ],
+        [
+          445.0,
+          503.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          460.0,
+          203.0
+        ],
+        [
+          502.0,
+          242.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          72.0,
+          20.0
+        ],
+        [
+          100.0,
+          42.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          91.0,
+          310.0
+        ],
+        [
+          126.0,
+          354.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          230.4355,
+          57.0
+        ],
+        [
+          277.4304,
+          98.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          745.0,
+          252.0
+        ],
+        [
+          767.0,
+          298.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          224.0,
+          171.0
+        ],
+        [
+          241.0,
+          182.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          679.0,
+          294.0
+        ],
+        [
+          700.0,
+          340.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          547.0,
+          312.0
+        ],
+        [
+          558.0,
+          322.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          73.0,
+          168.0
+        ],
+        [
+          99.0,
+          188.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-cross",
+      "points": [
+        [
+          198.0,
+          409.0
+        ],
+        [
+          238.0,
+          450.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          497.0,
+          301.0
+        ],
+        [
+          535.0,
+          339.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          395.0,
+          407.0
+        ],
+        [
+          432.0,
+          448.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          491.0,
+          267.0
+        ],
+        [
+          508.0,
+          278.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          678.0,
+          208.0
+        ],
+        [
+          699.0,
+          254.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          359.0,
+          203.0
+        ],
+        [
+          401.0,
+          242.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          222.0,
+          27.0
+        ],
+        [
+          243.0,
+          40.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          352.0,
+          267.0
+        ],
+        [
+          370.0,
+          278.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          105.0,
+          408.0
+        ],
+        [
+          145.0,
+          450.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          458.0,
+          59.0
+        ],
+        [
+          503.0,
+          99.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          648.0,
+          97.0
+        ],
+        [
+          692.0,
+          138.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A Low-Dropout Regulator for One Time Programmable -OTP- Memories in Automotive Applications_1.jpg",
+  "imageData": null,
+  "imageHeight": 519,
+  "imageWidth": 879
+}

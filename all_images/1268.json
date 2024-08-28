@@ -1,0 +1,362 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "inductor",
+      "points": [
+        [
+          1373.0,
+          238.0
+        ],
+        [
+          1439.0,
+          375.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          148.0,
+          704.0
+        ],
+        [
+          187.0,
+          740.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          773.0,
+          90.0
+        ],
+        [
+          843.0,
+          125.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          1055.0,
+          675.0
+        ],
+        [
+          1115.0,
+          770.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          699.0,
+          660.0
+        ],
+        [
+          817.0,
+          790.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          777.0,
+          155.0
+        ],
+        [
+          846.0,
+          296.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          504.0,
+          769.0
+        ],
+        [
+          569.0,
+          906.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          260.0,
+          687.0
+        ],
+        [
+          413.0,
+          754.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1181.0,
+          765.0
+        ],
+        [
+          1246.0,
+          901.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          1292.0,
+          660.0
+        ],
+        [
+          1413.0,
+          789.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          1362.0,
+          852.0
+        ],
+        [
+          1440.0,
+          908.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          1632.0,
+          199.0
+        ],
+        [
+          1670.0,
+          232.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          1475.0,
+          239.0
+        ],
+        [
+          1544.0,
+          374.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          622.0,
+          509.0
+        ],
+        [
+          679.0,
+          603.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          1367.0,
+          90.0
+        ],
+        [
+          1437.0,
+          121.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          1629.0,
+          370.0
+        ],
+        [
+          1669.0,
+          405.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          771.0,
+          853.0
+        ],
+        [
+          848.0,
+          909.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          777.0,
+          347.0
+        ],
+        [
+          842.0,
+          483.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          495.8256,
+          939.0128
+        ],
+        [
+          572.6604,
+          970.1159
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          1559.357,
+          181.2952
+        ],
+        [
+          1611.7914,
+          243.4428
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          1176.6444,
+          923.3609
+        ],
+        [
+          1253.48,
+          954.4674
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          1559.3632,
+          358.3585
+        ],
+        [
+          1611.8069,
+          420.5095
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2619.jpg",
+  "imageData": null,
+  "imageHeight": 1211,
+  "imageWidth": 1821
+}

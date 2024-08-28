@@ -1,0 +1,490 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos-cross",
+      "points": [
+        [
+          589.0,
+          88.0
+        ],
+        [
+          616.0,
+          120.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          138.0,
+          226.0
+        ],
+        [
+          165.0,
+          258.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          451.0,
+          60.0
+        ],
+        [
+          477.0,
+          93.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-cross",
+      "points": [
+        [
+          218.0,
+          92.0
+        ],
+        [
+          246.0,
+          125.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          52.0,
+          97.0
+        ],
+        [
+          79.0,
+          131.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          53.0,
+          290.0
+        ],
+        [
+          79.0,
+          322.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          287.0,
+          162.0
+        ],
+        [
+          314.0,
+          194.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          589.0,
+          263.0
+        ],
+        [
+          616.0,
+          295.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          137.0,
+          93.0
+        ],
+        [
+          164.0,
+          126.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          515.0,
+          162.0
+        ],
+        [
+          542.0,
+          194.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          649.0,
+          226.0
+        ],
+        [
+          674.0,
+          257.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          648.0,
+          87.0
+        ],
+        [
+          674.0,
+          119.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          471.0,
+          232.0
+        ],
+        [
+          498.0,
+          263.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          53.0,
+          173.0
+        ],
+        [
+          79.0,
+          205.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          353.0,
+          60.0
+        ],
+        [
+          379.0,
+          93.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          450.0,
+          162.0
+        ],
+        [
+          477.0,
+          194.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          331.0,
+          232.0
+        ],
+        [
+          360.0,
+          264.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-cross",
+      "points": [
+        [
+          196.0,
+          263.0
+        ],
+        [
+          223.0,
+          295.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          353.0,
+          162.0
+        ],
+        [
+          380.0,
+          194.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          124.8075,
+          29.1703
+        ],
+        [
+          157.8024,
+          42.1761
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          205.5999,
+          29.8244
+        ],
+        [
+          238.5973,
+          42.8249
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          339.8091,
+          28.859
+        ],
+        [
+          372.8044,
+          41.855
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          459.3503,
+          28.8548
+        ],
+        [
+          492.3582,
+          41.8571
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          501.3733,
+          28.2002
+        ],
+        [
+          534.3778,
+          41.2049
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          596.1779,
+          29.5049
+        ],
+        [
+          629.1752,
+          42.5063
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          689.3759,
+          172.5096
+        ],
+        [
+          704.3761,
+          182.5016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          115.7346,
+          173.5547
+        ],
+        [
+          130.7384,
+          183.56
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          400.5615,
+          226.719
+        ],
+        [
+          415.563,
+          236.7178
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          294.5295,
+          29.5092
+        ],
+        [
+          327.5237,
+          42.5001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          32.525,
+          300.8118
+        ],
+        [
+          47.5253,
+          310.8178
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Low voltage fully differential CMOS current feedback operational amplifier_2.jpg",
+  "imageData": null,
+  "imageHeight": 351,
+  "imageWidth": 716
+}

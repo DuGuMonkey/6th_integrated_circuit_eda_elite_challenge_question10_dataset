@@ -1,0 +1,170 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          203.9793,
+          265.3477
+        ],
+        [
+          253.0732,
+          285.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          127.9374,
+          233.0318
+        ],
+        [
+          170.1357,
+          255.253
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          0.0,
+          135.6523
+        ],
+        [
+          37.2259,
+          163.759
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          367.1741,
+          47.0247
+        ],
+        [
+          374.6915,
+          56.2072
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          133.8894,
+          112.6525
+        ],
+        [
+          176.0839,
+          134.8776
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          210.0349,
+          207.4136
+        ],
+        [
+          244.0189,
+          220.3283
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          133.6625,
+          165.2009
+        ],
+        [
+          175.8633,
+          187.4392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          277.1425,
+          34.6202
+        ],
+        [
+          319.3474,
+          56.8574
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          133.9099,
+          34.1704
+        ],
+        [
+          176.1068,
+          56.4039
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          209.9238,
+          82.4009
+        ],
+        [
+          243.901,
+          95.3048
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Switched Capacitors Charge Pump with half-floating Topology for a high-efficient Solar Energy Harvester.pdf_page2_image2.png",
+  "imageData": null,
+  "imageHeight": 285,
+  "imageWidth": 396
+}

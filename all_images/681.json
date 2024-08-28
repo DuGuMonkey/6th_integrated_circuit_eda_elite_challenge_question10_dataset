@@ -1,0 +1,218 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          287.9493,
+          583.2568
+        ],
+        [
+          314.4008,
+          597.3516
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          584.3995,
+          258.4819
+        ],
+        [
+          614.3463,
+          278.4226
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          337.5469,
+          44.8093
+        ],
+        [
+          355.7034,
+          58.909
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          499.2661,
+          443.153
+        ],
+        [
+          540.1784,
+          496.6758
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          311.2986,
+          441.4163
+        ],
+        [
+          352.2088,
+          494.9382
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          58.9207,
+          442.5254
+        ],
+        [
+          99.8216,
+          496.0455
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          481.2218,
+          101.3442
+        ],
+        [
+          540.1099,
+          150.687
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          290.5649,
+          102.2501
+        ],
+        [
+          349.4412,
+          151.5908
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          62.3,
+          101.8696
+        ],
+        [
+          121.1857,
+          151.2096
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          520.4697,
+          337.9688
+        ],
+        [
+          553.5164,
+          399.2366
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          329.3508,
+          337.8393
+        ],
+        [
+          362.4073,
+          399.1056
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          156.9204,
+          190.1034
+        ],
+        [
+          251.2311,
+          284.9824
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          328.3524,
+          23.2283
+        ],
+        [
+          364.4443,
+          38.9621
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_High accuracy- multi-output bandgap reference circuit in 16 nm FinFet.pdf_page1_image4.png",
+  "imageData": null,
+  "imageHeight": 600,
+  "imageWidth": 617
+}

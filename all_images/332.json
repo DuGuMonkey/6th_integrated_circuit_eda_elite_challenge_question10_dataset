@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          58.4946,
+          114.869
+        ],
+        [
+          94.1471,
+          169.9838
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          60.5257,
+          29.3055
+        ],
+        [
+          95.0387,
+          54.2697
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          373.5135,
+          425.2018
+        ],
+        [
+          409.1635,
+          480.3233
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          385.3968,
+          131.684
+        ],
+        [
+          401.8802,
+          148.1855
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          65.5878,
+          286.5146
+        ],
+        [
+          120.7929,
+          382.1071
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          212.8374,
+          570.0
+        ],
+        [
+          252.835,
+          588.8521
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          347.3969,
+          277.454
+        ],
+        [
+          402.6075,
+          373.0463
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_278.png",
+  "imageData": null,
+  "imageHeight": 592,
+  "imageWidth": 479
+}

@@ -1,0 +1,154 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          18.2019,
+          320.0536
+        ],
+        [
+          59.284,
+          346.664
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          331.1515,
+          229.3064
+        ],
+        [
+          371.0909,
+          288.6664
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          190.9565,
+          95.3272
+        ],
+        [
+          230.8987,
+          154.6805
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          12.2431,
+          168.1452
+        ],
+        [
+          65.2473,
+          221.1402
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          463.5892,
+          96.9042
+        ],
+        [
+          517.5824,
+          150.9028
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          329.6742,
+          321.7049
+        ],
+        [
+          370.7485,
+          348.3122
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          644.4219,
+          322.2573
+        ],
+        [
+          685.5088,
+          348.8582
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          643.2515,
+          164.8733
+        ],
+        [
+          683.1967,
+          224.24
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          782.1738,
+          52.6001
+        ],
+        [
+          795.1211,
+          67.0717
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_211.png",
+  "imageData": null,
+  "imageHeight": 351,
+  "imageWidth": 837
+}

@@ -1,0 +1,282 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          359.7427,
+          163.8641
+        ],
+        [
+          366.5055,
+          171.22
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          29.5402,
+          199.8292
+        ],
+        [
+          36.3029,
+          207.1861
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          78.0,
+          149.0
+        ],
+        [
+          133.0,
+          163.7027
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          229.7661,
+          246.9735
+        ],
+        [
+          256.0665,
+          256.572
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          150.602,
+          247.3071
+        ],
+        [
+          176.9026,
+          256.9041
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          141.7818,
+          123.1991
+        ],
+        [
+          167.9058,
+          151.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          220.1635,
+          107.5373
+        ],
+        [
+          246.2884,
+          135.3461
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          303.2087,
+          132.2479
+        ],
+        [
+          329.312,
+          160.0595
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          142.0189,
+          191.2553
+        ],
+        [
+          168.1295,
+          219.0634
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          89.8949,
+          168.7237
+        ],
+        [
+          123.801,
+          182.901
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          157.1536,
+          81.2308
+        ],
+        [
+          170.3063,
+          110.9054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          157.4798,
+          34.9272
+        ],
+        [
+          171.8014,
+          69.5055
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          228.6094,
+          180.5326
+        ],
+        [
+          255.4272,
+          203.9602
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          310.7442,
+          180.4301
+        ],
+        [
+          337.0838,
+          204.3531
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          61.7604,
+          166.3719
+        ],
+        [
+          64.5627,
+          169.7354
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          201.2522,
+          5.0257
+        ],
+        [
+          221.7577,
+          9.3209
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          310.8863,
+          246.9701
+        ],
+        [
+          337.1897,
+          256.5771
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Low Noise Amplifier for ECG Signals.pdf_page1_image1.png",
+  "imageData": null,
+  "imageHeight": 258,
+  "imageWidth": 398
+}

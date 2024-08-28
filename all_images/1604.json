@@ -1,0 +1,106 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          197.0,
+          225.0
+        ],
+        [
+          213.0,
+          276.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          377.0,
+          0.0
+        ],
+        [
+          395.0,
+          49.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          382.0,
+          122.0
+        ],
+        [
+          439.0,
+          151.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          275.0,
+          354.0
+        ],
+        [
+          319.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          87.0,
+          237.0
+        ],
+        [
+          143.0,
+          264.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          345.0,
+          210.0
+        ],
+        [
+          468.0,
+          338.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "8326.jpg",
+  "imageData": null,
+  "imageHeight": 401,
+  "imageWidth": 640
+}

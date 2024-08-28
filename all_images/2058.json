@@ -1,0 +1,378 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          357.0,
+          373.0
+        ],
+        [
+          381.0,
+          399.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          31.0,
+          45.0
+        ],
+        [
+          42.0,
+          57.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          109.0,
+          373.0
+        ],
+        [
+          133.0,
+          399.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          162.0,
+          373.0
+        ],
+        [
+          186.0,
+          398.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          303.0,
+          373.0
+        ],
+        [
+          328.0,
+          399.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          494.0,
+          151.0
+        ],
+        [
+          511.0,
+          166.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          55.0,
+          31.0
+        ],
+        [
+          97.0,
+          60.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          394.0,
+          137.0
+        ],
+        [
+          433.0,
+          180.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          114.0,
+          314.0
+        ],
+        [
+          141.0,
+          356.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          199.0,
+          137.0
+        ],
+        [
+          238.0,
+          180.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          160.0,
+          328.0
+        ],
+        [
+          188.0,
+          346.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          355.0,
+          328.0
+        ],
+        [
+          383.0,
+          346.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          362.0,
+          228.0
+        ],
+        [
+          378.0,
+          270.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          249.0,
+          31.0
+        ],
+        [
+          292.0,
+          59.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          167.0,
+          227.0
+        ],
+        [
+          183.0,
+          270.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          250.0,
+          84.0
+        ],
+        [
+          291.0,
+          113.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          110.0,
+          137.0
+        ],
+        [
+          149.0,
+          180.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          305.0,
+          137.0
+        ],
+        [
+          345.0,
+          180.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          30.0,
+          98.0
+        ],
+        [
+          42.0,
+          111.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          55.0,
+          84.0
+        ],
+        [
+          96.0,
+          112.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          309.0,
+          314.0
+        ],
+        [
+          336.0,
+          356.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          441.6611,
+          44.5485
+        ],
+        [
+          453.6621,
+          57.5484
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          439.4659,
+          98.9363
+        ],
+        [
+          451.4623,
+          111.939
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Charge steering A low-power design paradigm_9.jpg",
+  "imageData": null,
+  "imageHeight": 408,
+  "imageWidth": 641
+}

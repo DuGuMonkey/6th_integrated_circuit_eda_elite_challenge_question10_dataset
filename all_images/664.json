@@ -1,0 +1,378 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          406.192,
+          291.4348
+        ],
+        [
+          422.1225,
+          314.7781
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          557.2491,
+          178.4476
+        ],
+        [
+          573.1754,
+          201.7758
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          247.6465,
+          158.8081
+        ],
+        [
+          270.7062,
+          189.5673
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          304.0987,
+          159.4868
+        ],
+        [
+          327.1526,
+          190.2482
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          34.3539,
+          245.027
+        ],
+        [
+          45.9064,
+          267.973
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          90.6315,
+          245.0288
+        ],
+        [
+          102.1986,
+          267.9779
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          261.634,
+          207.4037
+        ],
+        [
+          273.189,
+          230.3603
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          318.7503,
+          263.7281
+        ],
+        [
+          330.3086,
+          286.6854
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          489.0973,
+          112.3149
+        ],
+        [
+          500.6546,
+          135.2696
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          565.345,
+          113.5139
+        ],
+        [
+          576.89,
+          136.4722
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          171.1457,
+          82.9719
+        ],
+        [
+          190.0536,
+          106.5223
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          251.0,
+          83.3765
+        ],
+        [
+          269.9113,
+          106.9234
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          322.1073,
+          83.1476
+        ],
+        [
+          341.0249,
+          106.6931
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          403.2989,
+          82.9181
+        ],
+        [
+          422.2133,
+          106.4534
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          95.5747,
+          291.3652
+        ],
+        [
+          111.5024,
+          314.7074
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          170.739,
+          291.0355
+        ],
+        [
+          186.5031,
+          314.4015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          481.4838,
+          178.4436
+        ],
+        [
+          497.4185,
+          201.778
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          30.9704,
+          36.1693
+        ],
+        [
+          47.6391,
+          57.8104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          622.2415,
+          155.426
+        ],
+        [
+          644.8007,
+          171.3007
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          387.8998,
+          22.4871
+        ],
+        [
+          412.1342,
+          32.4566
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          284.6001,
+          367.2644
+        ],
+        [
+          303.4801,
+          379.2928
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          34.8313,
+          132.8283
+        ],
+        [
+          46.3853,
+          152.313
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          34.8599,
+          196.6423
+        ],
+        [
+          46.4021,
+          219.6006
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Development of Low Power Low Dropout Regulator with Temperature and Voltage Protection Schemes for Wireless Sensor Network Application.pdf_page2_image2.png",
+  "imageData": null,
+  "imageHeight": 398,
+  "imageWidth": 661
+}

@@ -1,0 +1,410 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "voltage-lines",
+      "points": [
+        [
+          196.0,
+          195.0
+        ],
+        [
+          236.0,
+          210.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          209.0,
+          101.0
+        ],
+        [
+          231.0,
+          171.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          573.0,
+          63.0
+        ],
+        [
+          647.0,
+          82.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          214.0,
+          333.0
+        ],
+        [
+          249.0,
+          347.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage-lines",
+      "points": [
+        [
+          63.0,
+          223.0
+        ],
+        [
+          79.0,
+          260.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          135.0,
+          67.0
+        ],
+        [
+          206.0,
+          82.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          326.0,
+          86.0
+        ],
+        [
+          340.0,
+          118.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          7.0,
+          172.0
+        ],
+        [
+          48.0,
+          214.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          328.0,
+          372.0
+        ],
+        [
+          351.0,
+          398.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          482.0,
+          143.0
+        ],
+        [
+          516.0,
+          161.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          409.0,
+          148.0
+        ],
+        [
+          428.0,
+          221.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          650.0,
+          136.0
+        ],
+        [
+          669.0,
+          179.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          529.0,
+          59.0
+        ],
+        [
+          547.0,
+          92.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          400.0,
+          103.0
+        ],
+        [
+          432.0,
+          121.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          385.0,
+          293.0
+        ],
+        [
+          459.0,
+          312.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          82.0,
+          116.0
+        ],
+        [
+          119.0,
+          173.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          133.0,
+          334.0
+        ],
+        [
+          165.0,
+          351.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          304.0,
+          38.0
+        ],
+        [
+          364.0,
+          55.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          143.0,
+          379.0
+        ],
+        [
+          161.0,
+          452.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          484.0,
+          374.0
+        ],
+        [
+          519.0,
+          391.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          591.0,
+          365.0
+        ],
+        [
+          610.0,
+          410.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          143.0659,
+          468.0723
+        ],
+        [
+          155.3023,
+          478.4142
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          223.6199,
+          355.1332
+        ],
+        [
+          235.8653,
+          365.471
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          224.979,
+          313.2223
+        ],
+        [
+          237.2252,
+          323.5637
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          144.8731,
+          302.9937
+        ],
+        [
+          157.1228,
+          313.3348
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Analysis and Design of the Novel Class-F-E Power Amplifier With Series Output Filter_0.jpg",
+  "imageData": null,
+  "imageHeight": 522,
+  "imageWidth": 703
+}

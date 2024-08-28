@@ -1,0 +1,314 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          255.8612,
+          134.883
+        ],
+        [
+          280.0658,
+          155.0707
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          101.2883,
+          50.5296
+        ],
+        [
+          128.6796,
+          69.4264
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          100.8896,
+          109.3182
+        ],
+        [
+          128.2808,
+          128.2204
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          106.8134,
+          163.7886
+        ],
+        [
+          134.2075,
+          175.2021
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          179.758,
+          24.296
+        ],
+        [
+          207.5015,
+          34.7092
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          400.5292,
+          86.8489
+        ],
+        [
+          427.9245,
+          108.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          503.1517,
+          215.4632
+        ],
+        [
+          513.9081,
+          243.7088
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          199.7519,
+          215.642
+        ],
+        [
+          220.601,
+          246.1091
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          292.6691,
+          64.1944
+        ],
+        [
+          362.4753,
+          142.7263
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          295.8097,
+          151.8941
+        ],
+        [
+          365.6117,
+          230.4383
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          36.7482,
+          88.1872
+        ],
+        [
+          46.8826,
+          99.9321
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          79.8211,
+          162.9907
+        ],
+        [
+          92.5076,
+          176.3034
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          525.932,
+          22.9953
+        ],
+        [
+          538.6103,
+          36.3024
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          502.3621,
+          266.7928
+        ],
+        [
+          515.0448,
+          280.1171
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          177.4463,
+          51.6965
+        ],
+        [
+          191.3866,
+          77.1609
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          177.0539,
+          110.0906
+        ],
+        [
+          190.9882,
+          135.5608
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          496.1451,
+          112.4747
+        ],
+        [
+          520.9078,
+          128.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          202.3757,
+          261.3592
+        ],
+        [
+          226.5675,
+          281.5321
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          255.8605,
+          221.7931
+        ],
+        [
+          280.0669,
+          241.9837
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Switched-Capacitor Circuits.pdf_page4_image6.png",
+  "imageData": null,
+  "imageHeight": 299,
+  "imageWidth": 583
+}

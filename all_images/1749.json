@@ -1,0 +1,250 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "vdd",
+      "points": [
+        [
+          275.0,
+          8.0
+        ],
+        [
+          309.0,
+          26.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          70.0,
+          355.0
+        ],
+        [
+          106.0,
+          422.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          230.0,
+          125.0
+        ],
+        [
+          352.0,
+          226.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          187.0,
+          382.0
+        ],
+        [
+          226.0,
+          454.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          268.0,
+          488.0
+        ],
+        [
+          316.0,
+          512.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          185.0,
+          59.0
+        ],
+        [
+          240.0,
+          143.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          357.0,
+          379.0
+        ],
+        [
+          397.0,
+          453.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          343.0,
+          58.0
+        ],
+        [
+          402.0,
+          141.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          477.0,
+          355.0
+        ],
+        [
+          511.0,
+          421.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          542.0,
+          56.0
+        ],
+        [
+          603.0,
+          141.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          579.0,
+          311.0
+        ],
+        [
+          613.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          674.0,
+          221.0
+        ],
+        [
+          689.0,
+          238.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          172.0,
+          268.0
+        ],
+        [
+          207.0,
+          335.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          691.8493,
+          34.4009
+        ],
+        [
+          705.1042,
+          47.1055
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          14.64,
+          34.9804
+        ],
+        [
+          20.4698,
+          45.9353
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A 1.2-V 4.2- ppm.C High-Order Curvature-Compensated CMOS Bandgap Reference_0.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 710
+}

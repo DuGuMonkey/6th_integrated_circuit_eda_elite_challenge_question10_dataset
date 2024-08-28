@@ -1,0 +1,138 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          24.0,
+          119.0
+        ],
+        [
+          34.0,
+          128.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          431.0,
+          120.0
+        ],
+        [
+          440.0,
+          128.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          360.0,
+          43.0
+        ],
+        [
+          389.0,
+          61.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-input-single-end-amp",
+      "points": [
+        [
+          69.0,
+          78.0
+        ],
+        [
+          141.0,
+          169.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-input-single-end-amp",
+      "points": [
+        [
+          194.0,
+          78.0
+        ],
+        [
+          269.0,
+          169.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-input-single-end-amp",
+      "points": [
+        [
+          196.0,
+          190.0
+        ],
+        [
+          267.0,
+          281.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          317.0,
+          40.0
+        ],
+        [
+          330.0,
+          63.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-input-single-end-amp",
+      "points": [
+        [
+          317.0,
+          77.0
+        ],
+        [
+          390.0,
+          169.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Ultra-high bandwidth fully-differential three-stage operational amplifiers in 40nm digital CMOS_6.jpg",
+  "imageData": null,
+  "imageHeight": 289,
+  "imageWidth": 469
+}

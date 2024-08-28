@@ -1,0 +1,666 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos",
+      "points": [
+        [
+          1150.1815,
+          233.022
+        ],
+        [
+          1177.4726,
+          270.5841
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          223.6945,
+          410.8671
+        ],
+        [
+          250.9846,
+          448.4278
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          467.9437,
+          378.9174
+        ],
+        [
+          495.2377,
+          416.4738
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          466.8008,
+          491.456
+        ],
+        [
+          494.0944,
+          529.0124
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          782.155,
+          378.2576
+        ],
+        [
+          809.4476,
+          415.8119
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          782.8189,
+          503.8787
+        ],
+        [
+          810.1089,
+          541.4416
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          928.087,
+          505.8688
+        ],
+        [
+          955.3752,
+          543.4262
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          926.3119,
+          377.3707
+        ],
+        [
+          953.6039,
+          414.9383
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          1462.1593,
+          354.6131
+        ],
+        [
+          1465.181,
+          357.819
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          1389.9479,
+          310.7601
+        ],
+        [
+          1392.9768,
+          313.9629
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          778.0808,
+          324.5284
+        ],
+        [
+          781.1035,
+          327.7397
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          558.7192,
+          325.9797
+        ],
+        [
+          561.7326,
+          329.1792
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          1058.135,
+          478.571
+        ],
+        [
+          1061.1514,
+          481.7751
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          1149.0358,
+          479.505
+        ],
+        [
+          1152.0532,
+          482.712
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          1371.3086,
+          429.8002
+        ],
+        [
+          1398.0,
+          467.1025
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          803.9373,
+          235.225
+        ],
+        [
+          831.2249,
+          272.7953
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          1028.0906,
+          540.4512
+        ],
+        [
+          1049.8091,
+          571.807
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          1157.3749,
+          540.3295
+        ],
+        [
+          1179.0849,
+          571.6745
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          362.9905,
+          94.8682
+        ],
+        [
+          390.2843,
+          132.429
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          659.3389,
+          235.2222
+        ],
+        [
+          686.6245,
+          272.7918
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          468.3518,
+          238.1709
+        ],
+        [
+          495.6533,
+          275.7365
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          120.5882,
+          260.3534
+        ],
+        [
+          147.8706,
+          297.9249
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          364.1859,
+          455.2104
+        ],
+        [
+          391.4715,
+          492.778
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          223.0203,
+          502.5173
+        ],
+        [
+          250.317,
+          540.0817
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          120.0211,
+          350.9639
+        ],
+        [
+          147.311,
+          388.5232
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          799.3066,
+          608.3886
+        ],
+        [
+          816.3013,
+          621.1037
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          652.6157,
+          9.4644
+        ],
+        [
+          674.1083,
+          16.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          108.2072,
+          472.605
+        ],
+        [
+          111.2286,
+          475.8045
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          1027.6504,
+          234.307
+        ],
+        [
+          1054.9461,
+          271.8762
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          1254.3206,
+          234.8671
+        ],
+        [
+          1281.6125,
+          272.4249
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          1365.9904,
+          234.5752
+        ],
+        [
+          1393.2883,
+          272.1374
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          586.7739,
+          306.3683
+        ],
+        [
+          614.0641,
+          343.9295
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          723.2161,
+          305.5688
+        ],
+        [
+          750.509,
+          343.1394
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1204.8796,
+          542.5089
+        ],
+        [
+          1223.1926,
+          572.3042
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1268.7833,
+          434.7439
+        ],
+        [
+          1287.1117,
+          464.5401
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1166.3194,
+          433.71
+        ],
+        [
+          1184.6483,
+          463.5196
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1165.7943,
+          496.9549
+        ],
+        [
+          1184.1275,
+          526.7574
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          980.436,
+          545.9666
+        ],
+        [
+          998.7695,
+          575.7696
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1022.0864,
+          434.9047
+        ],
+        [
+          1040.4078,
+          464.7087
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          926.6514,
+          233.3894
+        ],
+        [
+          953.9432,
+          270.9581
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          363.0338,
+          280.4831
+        ],
+        [
+          390.3226,
+          318.0484
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of Fast Start-up CMOS RC Oscillator Based on Low Temperature Coefficient Current Mode Bandgap Reference.pdf_page3_image1.png",
+  "imageData": null,
+  "imageHeight": 624,
+  "imageWidth": 1479
+}

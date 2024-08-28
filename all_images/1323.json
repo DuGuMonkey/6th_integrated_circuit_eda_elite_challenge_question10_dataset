@@ -1,0 +1,250 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos",
+      "points": [
+        [
+          538.0,
+          861.0
+        ],
+        [
+          759.0,
+          1085.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          87.0,
+          1014.0
+        ],
+        [
+          204.0,
+          1078.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          641.0,
+          3048.0
+        ],
+        [
+          862.0,
+          3165.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          590.0,
+          2253.0
+        ],
+        [
+          765.0,
+          2479.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          584.0,
+          2681.0
+        ],
+        [
+          767.0,
+          2903.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          2133.0,
+          1769.0
+        ],
+        [
+          2354.0,
+          1993.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-cross",
+      "points": [
+        [
+          1079.0,
+          1326.0
+        ],
+        [
+          1260.0,
+          1559.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          355.0,
+          1336.0
+        ],
+        [
+          538.0,
+          1556.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          1041.0,
+          1774.0
+        ],
+        [
+          1259.0,
+          2005.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          2175.0,
+          1319.0
+        ],
+        [
+          2358.0,
+          1543.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          94.0,
+          2314.0
+        ],
+        [
+          203.0,
+          2340.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          533.0,
+          442.0
+        ],
+        [
+          757.0,
+          664.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          709.5015,
+          260.0
+        ],
+        [
+          800.3095,
+          314.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          1078.0,
+          1326.0
+        ],
+        [
+          1260.0,
+          1560.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          372.5047,
+          1781.1043
+        ],
+        [
+          593.5021,
+          2005.104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "3220.jpg",
+  "imageData": null,
+  "imageHeight": 3238,
+  "imageWidth": 2618
+}

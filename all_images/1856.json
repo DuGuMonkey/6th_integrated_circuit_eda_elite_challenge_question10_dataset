@@ -1,0 +1,90 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          330.0,
+          114.0
+        ],
+        [
+          384.0,
+          135.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          46.0,
+          104.0
+        ],
+        [
+          100.0,
+          159.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          448.0,
+          100.0
+        ],
+        [
+          474.0,
+          153.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          133.0,
+          46.0
+        ],
+        [
+          186.0,
+          72.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          207.0,
+          44.0
+        ],
+        [
+          310.0,
+          66.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A high-efficiency DC-DC converter-using 2 nH integrated inductors_6.jpg",
+  "imageData": null,
+  "imageHeight": 219,
+  "imageWidth": 522
+}

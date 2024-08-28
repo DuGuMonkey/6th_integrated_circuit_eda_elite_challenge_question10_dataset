@@ -1,0 +1,330 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          93.5933,
+          442.1051
+        ],
+        [
+          101.9291,
+          451.7465
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          179.1668,
+          43.7725
+        ],
+        [
+          208.2542,
+          59.613
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          160.3655,
+          81.4248
+        ],
+        [
+          198.0,
+          126.337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          162.2216,
+          144.1217
+        ],
+        [
+          199.8684,
+          189.0311
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          100.3519,
+          231.5392
+        ],
+        [
+          137.998,
+          276.4481
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          230.248,
+          229.1079
+        ],
+        [
+          267.8953,
+          274.0207
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          103.5198,
+          337.5279
+        ],
+        [
+          141.1594,
+          382.4318
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          230.7183,
+          337.2513
+        ],
+        [
+          268.3661,
+          382.1695
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          162.6109,
+          485.526
+        ],
+        [
+          199.9023,
+          531.6084
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          176.7806,
+          555.9143
+        ],
+        [
+          216.5856,
+          572.9205
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          94.1341,
+          102.2525
+        ],
+        [
+          100.6475,
+          112.7673
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          92.5737,
+          162.8623
+        ],
+        [
+          100.9004,
+          172.51
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          76.3444,
+          249.2827
+        ],
+        [
+          84.6735,
+          258.9237
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          157.752,
+          301.3929
+        ],
+        [
+          169.4066,
+          312.6099
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          75.6717,
+          353.0523
+        ],
+        [
+          84.0122,
+          362.6993
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          206.0579,
+          354.615
+        ],
+        [
+          214.3872,
+          364.2699
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          205.6127,
+          249.9537
+        ],
+        [
+          213.9414,
+          259.59
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          288.1217,
+          300.0412
+        ],
+        [
+          299.809,
+          313.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          93.3712,
+          501.813
+        ],
+        [
+          101.7037,
+          511.4522
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          161.4529,
+          424.8573
+        ],
+        [
+          199.0953,
+          469.7698
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A 12-Bit- 10-MHz Bandwidth- Continuous-Time ADC With a 5-Bit- 950-MS-s VCO-Based Quantizer_9.jpg",
+  "imageData": null,
+  "imageHeight": 605,
+  "imageWidth": 369
+}

@@ -1,0 +1,90 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          191.6853,
+          283.982
+        ],
+        [
+          230.5507,
+          304.3623
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          53.7849,
+          136.6811
+        ],
+        [
+          105.5032,
+          189.6557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          455.2618,
+          135.4337
+        ],
+        [
+          507.9268,
+          186.5108
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          186.0431,
+          154.5523
+        ],
+        [
+          236.8206,
+          176.1769
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          335.8561,
+          53.9458
+        ],
+        [
+          358.115,
+          102.5211
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_46.png",
+  "imageData": null,
+  "imageHeight": 307,
+  "imageWidth": 687
+}

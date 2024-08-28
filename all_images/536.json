@@ -1,0 +1,170 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          196.3361,
+          97.0173
+        ],
+        [
+          258.5328,
+          162.4053
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          200.1875,
+          242.2259
+        ],
+        [
+          262.3921,
+          307.6179
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          433.8542,
+          244.9139
+        ],
+        [
+          486.0717,
+          275.0278
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          610.4236,
+          118.0346
+        ],
+        [
+          662.6466,
+          148.1427
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          75.7431,
+          160.4273
+        ],
+        [
+          115.7171,
+          181.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          614.1391,
+          189.3791
+        ],
+        [
+          654.1062,
+          209.9448
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          440.4606,
+          312.399
+        ],
+        [
+          480.4331,
+          332.9607
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          232.058,
+          367.3933
+        ],
+        [
+          272.0222,
+          387.9655
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          60.0388,
+          265.4034
+        ],
+        [
+          78.3691,
+          280.5727
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          692.0,
+          67.6154
+        ],
+        [
+          709.0,
+          82.7778
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_629.png",
+  "imageData": null,
+  "imageHeight": 398,
+  "imageWidth": 709
+}

@@ -1,0 +1,234 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          242.0,
+          393.0
+        ],
+        [
+          299.0,
+          473.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          54.0,
+          613.0
+        ],
+        [
+          112.0,
+          692.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          53.0,
+          487.0
+        ],
+        [
+          113.0,
+          568.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          60.0,
+          711.0
+        ],
+        [
+          142.0,
+          745.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          341.0,
+          711.0
+        ],
+        [
+          423.0,
+          744.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          48.6912,
+          292.8378
+        ],
+        [
+          109.6991,
+          375.8391
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          55.1332,
+          107.4807
+        ],
+        [
+          118.1364,
+          191.4832
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          7.7544,
+          514.2885
+        ],
+        [
+          23.5451,
+          533.2948
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          8.5896,
+          641.5903
+        ],
+        [
+          21.8993,
+          655.641
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          87.1198,
+          48.7527
+        ],
+        [
+          128.5299,
+          65.2766
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          193.7684,
+          422.5172
+        ],
+        [
+          213.6885,
+          439.0404
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          9.4014,
+          330.6698
+        ],
+        [
+          21.0685,
+          343.8927
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          7.7553,
+          139.6966
+        ],
+        [
+          25.1976,
+          157.0509
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          7.7551,
+          424.1691
+        ],
+        [
+          21.0685,
+          440.7004
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A wide gain-bandwidth CMOS fully-differential folded cascode amplifier_3.jpg",
+  "imageData": null,
+  "imageHeight": 749,
+  "imageWidth": 424
+}

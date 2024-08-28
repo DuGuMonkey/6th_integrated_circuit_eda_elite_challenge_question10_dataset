@@ -1,0 +1,202 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          127.0,
+          187.0
+        ],
+        [
+          157.0,
+          229.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          149.0,
+          378.0
+        ],
+        [
+          177.0,
+          419.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          391.0,
+          187.0
+        ],
+        [
+          419.0,
+          229.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          264.0,
+          14.0
+        ],
+        [
+          303.0,
+          25.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          255.0,
+          486.0
+        ],
+        [
+          286.0,
+          501.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          371.0,
+          378.0
+        ],
+        [
+          398.0,
+          419.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          11.2709,
+          203.5096
+        ],
+        [
+          19.5733,
+          212.0736
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          527.3668,
+          205.5268
+        ],
+        [
+          535.0,
+          214.0951
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          149.0533,
+          76.8374
+        ],
+        [
+          159.2096,
+          89.1059
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          259.2042,
+          61.3912
+        ],
+        [
+          289.2077,
+          103.3968
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          427.1189,
+          281.8328
+        ],
+        [
+          435.4148,
+          290.4031
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          116.5622,
+          283.1514
+        ],
+        [
+          124.8691,
+          291.7239
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A reference voltage source and its output buffer for pipeline ADC_6.jpg",
+  "imageData": null,
+  "imageHeight": 506,
+  "imageWidth": 535
+}

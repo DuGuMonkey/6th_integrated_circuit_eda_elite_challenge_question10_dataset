@@ -1,0 +1,58 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          254.0,
+          155.0
+        ],
+        [
+          319.0,
+          236.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          90.0,
+          224.0
+        ],
+        [
+          168.0,
+          300.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          444.0,
+          157.0
+        ],
+        [
+          522.0,
+          237.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_1_image_111.png",
+  "imageData": null,
+  "imageHeight": 540,
+  "imageWidth": 606
+}

@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "current",
+      "points": [
+        [
+          100.0,
+          142.0
+        ],
+        [
+          131.0,
+          173.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          106.0,
+          184.0
+        ],
+        [
+          125.0,
+          204.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          9.0,
+          66.0
+        ],
+        [
+          15.0,
+          72.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          22.5313,
+          51.7679
+        ],
+        [
+          55.5301,
+          84.7676
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          45.0,
+          136.0
+        ],
+        [
+          63.0,
+          169.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          44.0,
+          185.0
+        ],
+        [
+          63.0,
+          205.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          50.7675,
+          22.9342
+        ],
+        [
+          57.1131,
+          29.9841
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A Noise Reconfigurable All-Digital Phase-Locked Loop Using a Switched Capacitor-Based Frequency-Locked Loop and a Noise Detector_10.jpg",
+  "imageData": null,
+  "imageHeight": 213,
+  "imageWidth": 177
+}

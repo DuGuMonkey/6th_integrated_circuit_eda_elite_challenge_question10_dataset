@@ -1,0 +1,378 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          666.5871,
+          705.6852
+        ],
+        [
+          709.4982,
+          809.2751
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          1036.7381,
+          1412.5816
+        ],
+        [
+          1146.9073,
+          1462.3091
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          471.2976,
+          702.9143
+        ],
+        [
+          527.4615,
+          848.7284
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1105.9665,
+          702.9416
+        ],
+        [
+          1162.1379,
+          848.7506
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          734.5438,
+          1097.6369
+        ],
+        [
+          790.7119,
+          1255.6046
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          75.724,
+          1093.8047
+        ],
+        [
+          114.8932,
+          1151.6832
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          645.8465,
+          897.8376
+        ],
+        [
+          683.4067,
+          934.71
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          948.8684,
+          896.6575
+        ],
+        [
+          986.4201,
+          933.5279
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          347.5726,
+          1055.9164
+        ],
+        [
+          513.1017,
+          1197.2095
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          703.949,
+          461.9221
+        ],
+        [
+          913.8067,
+          501.9248
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          443.155,
+          277.0257
+        ],
+        [
+          605.9053,
+          426.1945
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          82.4918,
+          270.815
+        ],
+        [
+          245.2476,
+          419.9946
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          231.5678,
+          0.0
+        ],
+        [
+          441.4182,
+          40.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          655.0641,
+          1487.7813
+        ],
+        [
+          820.5934,
+          1629.0793
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          1117.1886,
+          1055.866
+        ],
+        [
+          1282.7164,
+          1197.1583
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          1516.2188,
+          1107.5772
+        ],
+        [
+          1544.0,
+          1144.446
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          377.677,
+          1532.2346
+        ],
+        [
+          415.2335,
+          1569.1094
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          0.3548,
+          797.9162
+        ],
+        [
+          174.9418,
+          904.5183
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          772.691,
+          703.8198
+        ],
+        [
+          852.9026,
+          819.8084
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          16.5036,
+          565.3212
+        ],
+        [
+          153.9589,
+          705.8477
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          727.6504,
+          1764.6781
+        ],
+        [
+          902.2441,
+          1856.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          1027.792,
+          1521.0558
+        ],
+        [
+          1153.9064,
+          1599.4019
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          587.2183,
+          592.2701
+        ],
+        [
+          655.8377,
+          659.2574
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Silicon Radio-Frequency Integrated Circuits for Wireless and Wired Applications.pdf_page2_image4.png",
+  "imageData": null,
+  "imageHeight": 1856,
+  "imageWidth": 1544
+}

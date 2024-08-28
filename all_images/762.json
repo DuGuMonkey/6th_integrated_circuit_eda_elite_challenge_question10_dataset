@@ -1,0 +1,314 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          35.131,
+          11.9152
+        ],
+        [
+          43.0,
+          20.4077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          97.8626,
+          276.9704
+        ],
+        [
+          125.1512,
+          295.3287
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          475.2679,
+          282.4143
+        ],
+        [
+          502.5503,
+          300.7653
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          100.4301,
+          123.1611
+        ],
+        [
+          123.0293,
+          136.9657
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          247.1278,
+          124.53
+        ],
+        [
+          269.7136,
+          138.3397
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          384.5596,
+          125.2439
+        ],
+        [
+          407.1466,
+          139.0452
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          478.0886,
+          228.9974
+        ],
+        [
+          501.6075,
+          242.8082
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          507.3733,
+          215.8762
+        ],
+        [
+          531.592,
+          257.6712
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          103.9905,
+          40.5858
+        ],
+        [
+          128.3662,
+          81.9828
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          251.7549,
+          41.1437
+        ],
+        [
+          276.1256,
+          82.545
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          390.4024,
+          41.954
+        ],
+        [
+          414.7747,
+          83.3681
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          144.1925,
+          81.5368
+        ],
+        [
+          179.6052,
+          105.1082
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          294.0498,
+          81.5247
+        ],
+        [
+          329.4672,
+          105.0928
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          422.6383,
+          82.9858
+        ],
+        [
+          458.0422,
+          106.5559
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          424.4716,
+          145.2055
+        ],
+        [
+          459.8811,
+          168.7692
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          294.2592,
+          166.9445
+        ],
+        [
+          329.6693,
+          190.5175
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          150.9352,
+          183.5436
+        ],
+        [
+          186.3416,
+          207.1168
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          105.2668,
+          210.0941
+        ],
+        [
+          129.6303,
+          251.4994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          509.0137,
+          96.4891
+        ],
+        [
+          519.981,
+          107.3251
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Switched-capacitor converter with low dropout voltage regulator for wireless sensor nodes.pdf_page1_image2.png",
+  "imageData": null,
+  "imageHeight": 303,
+  "imageWidth": 574
+}

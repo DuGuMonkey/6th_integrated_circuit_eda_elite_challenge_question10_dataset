@@ -1,0 +1,362 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          338.212,
+          194.4542
+        ],
+        [
+          392.1119,
+          239.3703
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          160.6904,
+          119.163
+        ],
+        [
+          205.0874,
+          170.9494
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          223.0981,
+          47.4511
+        ],
+        [
+          251.1076,
+          82.3347
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          286.2643,
+          196.9785
+        ],
+        [
+          314.2637,
+          231.8557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          340.6869,
+          342.8104
+        ],
+        [
+          368.6981,
+          377.6958
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          4.5384,
+          226.9643
+        ],
+        [
+          53.8047,
+          239.8101
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          157.8795,
+          231.8504
+        ],
+        [
+          207.1415,
+          244.6986
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          422.3814,
+          472.8152
+        ],
+        [
+          471.6547,
+          485.6506
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          481.0998,
+          472.2017
+        ],
+        [
+          530.3615,
+          485.0432
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          407.9543,
+          177.4696
+        ],
+        [
+          457.226,
+          190.307
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          466.5175,
+          176.5827
+        ],
+        [
+          515.7855,
+          189.4242
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          412.7933,
+          329.3776
+        ],
+        [
+          462.0682,
+          342.2288
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          474.4439,
+          331.1402
+        ],
+        [
+          523.7147,
+          343.9827
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          485.2167,
+          254.2125
+        ],
+        [
+          508.9951,
+          310.5764
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          494.0217,
+          388.5332
+        ],
+        [
+          517.8006,
+          444.8935
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          479.9365,
+          93.941
+        ],
+        [
+          503.7113,
+          150.3056
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          75.3088,
+          46.6854
+        ],
+        [
+          155.0,
+          78.8204
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          413.9015,
+          94.859
+        ],
+        [
+          458.0411,
+          111.3458
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          417.7496,
+          256.7323
+        ],
+        [
+          461.8827,
+          273.2165
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          426.1016,
+          389.8979
+        ],
+        [
+          470.2589,
+          406.3795
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          6.0973,
+          147.921
+        ],
+        [
+          58.608,
+          164.4187
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          329.7839,
+          43.6001
+        ],
+        [
+          383.6872,
+          88.5189
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "00w958pip3jkz7ol.jpg",
+  "imageData": null,
+  "imageHeight": 506,
+  "imageWidth": 588
+}

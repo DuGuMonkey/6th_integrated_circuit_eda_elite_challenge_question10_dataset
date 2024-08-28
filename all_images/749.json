@@ -1,0 +1,170 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          60.4489,
+          51.4788
+        ],
+        [
+          67.9633,
+          60.6551
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          87.2199,
+          0.0
+        ],
+        [
+          116.1081,
+          20.4085
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          88.4167,
+          317.0837
+        ],
+        [
+          117.2931,
+          337.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          80.3948,
+          28.728
+        ],
+        [
+          104.7799,
+          81.6869
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          43.2744,
+          103.5135
+        ],
+        [
+          67.6594,
+          156.4834
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          137.6283,
+          104.1169
+        ],
+        [
+          162.0,
+          157.0844
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          41.8835,
+          178.6445
+        ],
+        [
+          66.269,
+          231.6128
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          139.1371,
+          178.1274
+        ],
+        [
+          163.5105,
+          231.0918
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          80.8078,
+          255.2066
+        ],
+        [
+          105.1869,
+          308.1787
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          62.0864,
+          277.6495
+        ],
+        [
+          69.6042,
+          286.8272
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Sub--W Front-End Low Noise Amplifier for Neural Recording Applications.pdf_page3_image3.png",
+  "imageData": null,
+  "imageHeight": 337,
+  "imageWidth": 202
+}

@@ -1,0 +1,218 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          696.5267,
+          384.8847
+        ],
+        [
+          724.4061,
+          446.9069
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          431.4974,
+          408.5807
+        ],
+        [
+          476.268,
+          470.3839
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          224.906,
+          410.0148
+        ],
+        [
+          269.6718,
+          471.8195
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          202.3577,
+          232.164
+        ],
+        [
+          259.3918,
+          288.3941
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          105.9692,
+          122.9146
+        ],
+        [
+          164.6094,
+          180.7559
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          825.087,
+          404.7646
+        ],
+        [
+          882.9231,
+          427.4136
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          443.6797,
+          507.8234
+        ],
+        [
+          499.5026,
+          536.609
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          563.0134,
+          242.32
+        ],
+        [
+          607.7875,
+          304.1137
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          660.3864,
+          269.5023
+        ],
+        [
+          666.6054,
+          275.4041
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          338.1317,
+          241.0
+        ],
+        [
+          382.9031,
+          302.8088
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          662.0,
+          73.1531
+        ],
+        [
+          715.8019,
+          134.9542
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          520.1494,
+          75.5329
+        ],
+        [
+          574.0,
+          137.3361
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          370.2013,
+          73.1592
+        ],
+        [
+          422.1005,
+          134.9589
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of Low Dropout Voltage Regulator for Battery Operated Devices.pdf_page3_image2.png",
+  "imageData": null,
+  "imageHeight": 547,
+  "imageWidth": 974
+}

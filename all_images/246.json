@@ -1,0 +1,106 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          10.9283,
+          245.7047
+        ],
+        [
+          48.9213,
+          266.7091
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          162.4174,
+          125.3242
+        ],
+        [
+          263.4137,
+          225.3263
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          74.5429,
+          123.4994
+        ],
+        [
+          98.5434,
+          166.4994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          304.5009,
+          136.9926
+        ],
+        [
+          321.5003,
+          152.9998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          120.7889,
+          246.0423
+        ],
+        [
+          158.781,
+          267.0493
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          192.8275,
+          68.5694
+        ],
+        [
+          216.8225,
+          111.566
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_1_image_902.png",
+  "imageData": null,
+  "imageHeight": 271,
+  "imageWidth": 388
+}

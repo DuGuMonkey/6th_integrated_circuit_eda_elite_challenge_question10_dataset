@@ -1,0 +1,298 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          58.4488,
+          494.5691
+        ],
+        [
+          119.9097,
+          570.2071
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          507.8095,
+          647.5622
+        ],
+        [
+          551.2011,
+          669.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          807.2363,
+          648.9909
+        ],
+        [
+          849.1085,
+          669.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          18.0563,
+          37.521
+        ],
+        [
+          28.173,
+          48.0172
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          268.9093,
+          64.809
+        ],
+        [
+          334.8563,
+          142.9097
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          428.7757,
+          67.528
+        ],
+        [
+          494.7272,
+          145.6269
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          644.6548,
+          168.703
+        ],
+        [
+          710.6055,
+          246.8
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          322.5887,
+          493.5867
+        ],
+        [
+          387.9739,
+          569.8649
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          218.9671,
+          282.8429
+        ],
+        [
+          284.3501,
+          359.1234
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          478.7187,
+          284.8448
+        ],
+        [
+          544.0974,
+          361.1217
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          569.3789,
+          316.2433
+        ],
+        [
+          577.7796,
+          324.7419
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          854.0302,
+          395.3251
+        ],
+        [
+          889.2016,
+          415.2067
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          627.5168,
+          259.0444
+        ],
+        [
+          648.5099,
+          296.1017
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          24.2669,
+          215.8508
+        ],
+        [
+          103.1443,
+          296.5821
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          690.292,
+          444.5358
+        ],
+        [
+          713.332,
+          494.4031
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          774.5371,
+          378.9721
+        ],
+        [
+          797.5711,
+          428.843
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          689.2956,
+          337.2561
+        ],
+        [
+          712.3465,
+          387.1287
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          754.1184,
+          37.1347
+        ],
+        [
+          764.2306,
+          47.633
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Nanowire TFET with different Source Compositions applied to Low-Dropout Voltage Regulator.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 669,
+  "imageWidth": 939
+}

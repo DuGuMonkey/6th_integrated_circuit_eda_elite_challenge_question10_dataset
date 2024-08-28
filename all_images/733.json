@@ -1,0 +1,266 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          457.569,
+          485.8816
+        ],
+        [
+          494.1236,
+          499.9725
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          154.2146,
+          501.4771
+        ],
+        [
+          190.7714,
+          515.558
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          154.5015,
+          215.7188
+        ],
+        [
+          191.0629,
+          229.8033
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          291.7023,
+          601.6603
+        ],
+        [
+          332.606,
+          649.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          292.4764,
+          436.356
+        ],
+        [
+          333.3753,
+          483.934
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          293.0868,
+          271.1985
+        ],
+        [
+          333.987,
+          318.7724
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          292.1079,
+          102.2056
+        ],
+        [
+          333.0,
+          149.7801
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          263.2294,
+          32.7875
+        ],
+        [
+          322.7121,
+          47.8756
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          402.3907,
+          620.783
+        ],
+        [
+          412.4014,
+          631.5613
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          402.3986,
+          455.2143
+        ],
+        [
+          412.4043,
+          465.9969
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          402.3397,
+          120.9723
+        ],
+        [
+          412.3528,
+          131.7585
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          402.4559,
+          289.353
+        ],
+        [
+          412.4628,
+          300.1361
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          462.6549,
+          236.1107
+        ],
+        [
+          487.5584,
+          290.5367
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          270.8548,
+          715.8603
+        ],
+        [
+          319.5888,
+          734.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          35.9757,
+          601.0817
+        ],
+        [
+          84.7096,
+          621.9026
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          40.0727,
+          484.5046
+        ],
+        [
+          80.2033,
+          523.3688
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Resonant-Switched Capacitor Converters for Chip-Scale Power Delivery Design and Implementation.pdf_page2_image2.png",
+  "imageData": null,
+  "imageHeight": 734,
+  "imageWidth": 556
+}

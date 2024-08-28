@@ -1,0 +1,106 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          149.264,
+          684.9059
+        ],
+        [
+          168.6081,
+          708.2013
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          1029.8498,
+          683.4068
+        ],
+        [
+          1049.1833,
+          706.702
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          644.359,
+          1254.2077
+        ],
+        [
+          818.27,
+          1350.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          522.5012,
+          345.1283
+        ],
+        [
+          839.2922,
+          568.0739
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          606.2714,
+          820.909
+        ],
+        [
+          800.4008,
+          1030.0334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          646.3835,
+          60.9873
+        ],
+        [
+          814.4036,
+          85.901
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Leakage current mechanisms and leakage reduction techniques in deep-submicrometer CMOS circuits.pdf_page17_image2.png",
+  "imageData": null,
+  "imageHeight": 1350,
+  "imageWidth": 1228
+}

@@ -1,0 +1,218 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          41.4855,
+          100.8182
+        ],
+        [
+          70.0,
+          135.4097
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          184.5399,
+          308.1981
+        ],
+        [
+          196.1141,
+          325.6408
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          183.6965,
+          180.8472
+        ],
+        [
+          195.2623,
+          198.2963
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          215.6808,
+          322.8168
+        ],
+        [
+          244.1944,
+          357.4054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          305.3801,
+          284.7276
+        ],
+        [
+          333.9042,
+          319.3019
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          375.5403,
+          212.1972
+        ],
+        [
+          404.0621,
+          246.7812
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          304.8682,
+          142.8323
+        ],
+        [
+          333.3877,
+          175.7087
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          241.4583,
+          101.5406
+        ],
+        [
+          269.9762,
+          136.1377
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          163.2215,
+          100.9211
+        ],
+        [
+          191.7452,
+          135.5183
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          164.2921,
+          414.6587
+        ],
+        [
+          181.1808,
+          422.853
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          248.7031,
+          182.1033
+        ],
+        [
+          286.0913,
+          216.5867
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          107.8687,
+          198.7988
+        ],
+        [
+          172.1992,
+          259.4182
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          49.4141,
+          305.8451
+        ],
+        [
+          72.7579,
+          353.7664
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Development of Low Power Low Dropout Regulator with Temperature and Voltage Protection Schemes for Wireless Sensor Network Application.pdf_page2_image6.png",
+  "imageData": null,
+  "imageHeight": 488,
+  "imageWidth": 431
+}

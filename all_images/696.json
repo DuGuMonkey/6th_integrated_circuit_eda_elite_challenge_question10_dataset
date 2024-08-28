@@ -1,0 +1,90 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          193.7568,
+          86.1283
+        ],
+        [
+          340.0,
+          150.4095
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          340.373,
+          171.634
+        ],
+        [
+          429.6012,
+          211.7025
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          342.0603,
+          348.8567
+        ],
+        [
+          424.4045,
+          404.204
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          488.2437,
+          109.3763
+        ],
+        [
+          502.8349,
+          125.1982
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          16.1272,
+          112.2871
+        ],
+        [
+          30.7299,
+          128.0941
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Implementation of Digital Phase Locked Loop using CMOS Technology.pdf_page3_image3.png",
+  "imageData": null,
+  "imageHeight": 431,
+  "imageWidth": 544
+}

@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          98.2222,
+          248.5056
+        ],
+        [
+          133.8785,
+          303.6234
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          264.9088,
+          393.9026
+        ],
+        [
+          320.1196,
+          489.4982
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          190.1067,
+          568.7817
+        ],
+        [
+          230.1064,
+          587.6357
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          88.5676,
+          99.7753
+        ],
+        [
+          147.5121,
+          156.9962
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          97.6221,
+          39.2133
+        ],
+        [
+          132.1394,
+          64.1649
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          296.7547,
+          278.6324
+        ],
+        [
+          313.235,
+          295.1339
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          71.7909,
+          390.5845
+        ],
+        [
+          127.0,
+          486.1721
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_280.png",
+  "imageData": null,
+  "imageHeight": 600,
+  "imageWidth": 398
+}

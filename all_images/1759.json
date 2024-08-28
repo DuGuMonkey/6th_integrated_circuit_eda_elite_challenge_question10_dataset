@@ -1,0 +1,458 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          84.2279,
+          674.7051
+        ],
+        [
+          111.2483,
+          691.4572
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          665.1114,
+          421.6161
+        ],
+        [
+          723.4811,
+          460.915
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          332.7173,
+          581.3598
+        ],
+        [
+          380.0,
+          646.7484
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          297.5138,
+          237.9689
+        ],
+        [
+          344.8,
+          303.3681
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          786.2264,
+          674.0547
+        ],
+        [
+          813.2548,
+          690.811
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          846.7722,
+          432.5636
+        ],
+        [
+          862.3742,
+          449.1032
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          554.0,
+          236.991
+        ],
+        [
+          601.2809,
+          302.3805
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          172.1055,
+          421.4458
+        ],
+        [
+          230.4749,
+          460.7431
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          130.4535,
+          412.0
+        ],
+        [
+          151.5297,
+          468.2037
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          333.8325,
+          332.643
+        ],
+        [
+          381.1286,
+          398.0325
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          239.1004,
+          262.9325
+        ],
+        [
+          254.7004,
+          279.4728
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          514.6241,
+          480.5123
+        ],
+        [
+          561.9174,
+          545.9075
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          757.8163,
+          580.5328
+        ],
+        [
+          805.1005,
+          645.9225
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          515.0984,
+          333.6243
+        ],
+        [
+          562.3767,
+          399.0181
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          784.9584,
+          45.0371
+        ],
+        [
+          811.9755,
+          61.7855
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          91.7042,
+          91.6717
+        ],
+        [
+          138.9968,
+          157.0662
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          406.1099,
+          92.2367
+        ],
+        [
+          453.3994,
+          157.6246
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          32.923,
+          431.8092
+        ],
+        [
+          48.5221,
+          448.3446
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          514.3052,
+          580.7085
+        ],
+        [
+          561.5893,
+          646.0902
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          544.3317,
+          674.3811
+        ],
+        [
+          571.3571,
+          691.1307
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          758.7201,
+          89.799
+        ],
+        [
+          806.0129,
+          155.1811
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          436.1012,
+          45.0345
+        ],
+        [
+          463.1319,
+          61.7833
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          85.6579,
+          46.9224
+        ],
+        [
+          112.6758,
+          63.687
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          325.1444,
+          675.3566
+        ],
+        [
+          352.1687,
+          692.107
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          94.0689,
+          579.4016
+        ],
+        [
+          141.3504,
+          644.7985
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          333.0435,
+          481.8185
+        ],
+        [
+          380.3251,
+          547.2078
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          745.6976,
+          411.9281
+        ],
+        [
+          766.7683,
+          468.1389
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          641.5161,
+          263.0836
+        ],
+        [
+          657.1053,
+          279.6224
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A 12-Bit- 10-MHz Bandwidth- Continuous-Time ADC With a 5-Bit- 950-MS-s VCO-Based Quantizer_11.jpg",
+  "imageData": null,
+  "imageHeight": 731,
+  "imageWidth": 890
+}

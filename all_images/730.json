@@ -1,0 +1,186 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          112.8052,
+          116.6062
+        ],
+        [
+          131.5034,
+          146.0567
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          59.8363,
+          120.7665
+        ],
+        [
+          70.3049,
+          142.1014
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          39.4601,
+          122.7053
+        ],
+        [
+          54.2562,
+          139.226
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          94.4814,
+          87.1025
+        ],
+        [
+          109.2783,
+          103.6217
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          16.8775,
+          155.1896
+        ],
+        [
+          34.1085,
+          182.5831
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          19.0697,
+          191.3898
+        ],
+        [
+          31.2005,
+          209.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          122.594,
+          156.2437
+        ],
+        [
+          134.7328,
+          173.8699
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          145.702,
+          91.406
+        ],
+        [
+          151.8047,
+          100.202
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          98.3735,
+          31.7908
+        ],
+        [
+          104.4706,
+          40.5975
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          112.9153,
+          21.4337
+        ],
+        [
+          132.3078,
+          51.2075
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          120.0134,
+          9.1615
+        ],
+        [
+          137.4063,
+          17.9035
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Performance Analysis of Various Topologies of Common Source Low Noise Amplifier -CS-LNA- at 90nm Technology.pdf_page3_image8.png",
+  "imageData": null,
+  "imageHeight": 209,
+  "imageWidth": 178
+}

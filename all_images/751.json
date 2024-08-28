@@ -1,0 +1,106 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "inductor",
+      "points": [
+        [
+          91.5396,
+          60.7584
+        ],
+        [
+          117.1761,
+          107.654
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          153.546,
+          171.0434
+        ],
+        [
+          174.8033,
+          214.3945
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          22.2965,
+          171.3973
+        ],
+        [
+          43.5562,
+          214.7411
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          92.853,
+          9.0834
+        ],
+        [
+          100.3869,
+          18.261
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          152.646,
+          279.9559
+        ],
+        [
+          180.3763,
+          300.8431
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          23.5609,
+          281.1746
+        ],
+        [
+          51.2968,
+          302.0605
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Switched Capacitor Circuits in Power Systems A Survey.pdf_page3_image4.png",
+  "imageData": null,
+  "imageHeight": 377,
+  "imageWidth": 219
+}

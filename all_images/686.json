@@ -1,0 +1,378 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          1259.8934,
+          362.5218
+        ],
+        [
+          1339.5039,
+          517.6054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          590.5466,
+          1811.132
+        ],
+        [
+          677.7245,
+          1864.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          620.821,
+          3.7886
+        ],
+        [
+          645.1942,
+          29.9871
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          677.9687,
+          1549.7277
+        ],
+        [
+          758.7858,
+          1606.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          774.4723,
+          1510.4387
+        ],
+        [
+          867.5696,
+          1643.7217
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1551.1517,
+          526.0985
+        ],
+        [
+          1598.3004,
+          656.3015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1121.8042,
+          940.2507
+        ],
+        [
+          1222.9192,
+          1000.879
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          1253.5747,
+          1139.2129
+        ],
+        [
+          1333.172,
+          1294.2841
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          1256.2899,
+          1426.0411
+        ],
+        [
+          1335.8905,
+          1581.117
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          567.9822,
+          1440.9522
+        ],
+        [
+          647.5823,
+          1596.0222
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          203.1537,
+          760.5734
+        ],
+        [
+          282.7554,
+          915.6412
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          566.1258,
+          959.2611
+        ],
+        [
+          645.7288,
+          1114.3438
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          1504.3869,
+          835.0679
+        ],
+        [
+          1583.9851,
+          990.1331
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          1251.5974,
+          644.442
+        ],
+        [
+          1331.1978,
+          799.5235
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          198.4069,
+          284.5141
+        ],
+        [
+          278.0,
+          429.2395
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          914.6416,
+          1344.0
+        ],
+        [
+          957.6512,
+          1378.8613
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          915.6962,
+          1249.6937
+        ],
+        [
+          958.7017,
+          1284.5538
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          612.5878,
+          1341.6537
+        ],
+        [
+          655.5981,
+          1376.5177
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          914.0576,
+          641.8578
+        ],
+        [
+          957.0636,
+          676.7002
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          609.4213,
+          642.7927
+        ],
+        [
+          652.4363,
+          677.6585
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          914.0984,
+          546.5519
+        ],
+        [
+          957.1085,
+          581.4152
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          614.4102,
+          541.5719
+        ],
+        [
+          657.4112,
+          576.4397
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          247.9205,
+          539.1064
+        ],
+        [
+          290.9307,
+          573.9653
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_High-sensitivity regulated inverter cascode transimpedance amplifier for near infrared spectroscopy.pdf_page2_image2.png",
+  "imageData": null,
+  "imageHeight": 1864,
+  "imageWidth": 1712
+}

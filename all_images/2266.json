@@ -1,0 +1,90 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "voltage",
+      "points": [
+        [
+          135.0,
+          144.0
+        ],
+        [
+          205.0,
+          208.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          449.0,
+          148.0
+        ],
+        [
+          511.0,
+          209.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          301.0,
+          40.0
+        ],
+        [
+          344.0,
+          83.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          382.0,
+          275.0
+        ],
+        [
+          428.0,
+          305.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          375.0,
+          136.0
+        ],
+        [
+          432.0,
+          159.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Ultra-Low-Voltage Operation of CMOS Analog Circuits Amplifiers- Oscillators- and Rectifiers_5.jpg",
+  "imageData": null,
+  "imageHeight": 946,
+  "imageWidth": 744
+}

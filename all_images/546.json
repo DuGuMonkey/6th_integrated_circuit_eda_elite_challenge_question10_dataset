@@ -1,0 +1,106 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          49.9994,
+          219.0
+        ],
+        [
+          89.9618,
+          239.5833
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          129.4902,
+          42.6741
+        ],
+        [
+          234.4183,
+          145.7468
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          356.6631,
+          86.6449
+        ],
+        [
+          374.0922,
+          101.8196
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          354.8736,
+          180.0378
+        ],
+        [
+          372.2994,
+          195.2085
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          342.7821,
+          220.8551
+        ],
+        [
+          382.752,
+          241.4345
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          42.5794,
+          139.0903
+        ],
+        [
+          99.2218,
+          192.6726
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_653.png",
+  "imageData": null,
+  "imageHeight": 254,
+  "imageWidth": 415
+}

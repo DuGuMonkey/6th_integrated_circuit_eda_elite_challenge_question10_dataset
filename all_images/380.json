@@ -1,0 +1,298 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "vdd",
+      "points": [
+        [
+          475.1108,
+          27.2446
+        ],
+        [
+          497.7713,
+          50.6151
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          295.5054,
+          459.3974
+        ],
+        [
+          351.5051,
+          524.3951
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          432.5808,
+          455.4934
+        ],
+        [
+          488.5807,
+          520.4967
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          244.1125,
+          133.3526
+        ],
+        [
+          302.8595,
+          199.295
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          434.5029,
+          132.811
+        ],
+        [
+          493.2465,
+          198.7515
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          251.9796,
+          322.5829
+        ],
+        [
+          307.9762,
+          387.5834
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          478.0607,
+          323.1213
+        ],
+        [
+          534.0665,
+          388.1227
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          512.2593,
+          562.451
+        ],
+        [
+          528.2571,
+          577.4579
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          249.4251,
+          560.1524
+        ],
+        [
+          265.4234,
+          575.1524
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          212.541,
+          351.1269
+        ],
+        [
+          228.5416,
+          366.1237
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          558.3623,
+          348.8117
+        ],
+        [
+          574.3659,
+          363.8187
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          778.9259,
+          228.167
+        ],
+        [
+          794.9222,
+          243.1699
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          31.9422,
+          158.9926
+        ],
+        [
+          47.9428,
+          173.9901
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          29.6305,
+          88.2931
+        ],
+        [
+          45.6313,
+          103.291
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          765.5054,
+          407.2454
+        ],
+        [
+          807.505,
+          430.2425
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          779.2707,
+          373.5829
+        ],
+        [
+          795.2774,
+          388.5848
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          280.0436,
+          79.4464
+        ],
+        [
+          317.8179,
+          105.9939
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          289.1382,
+          34.9287
+        ],
+        [
+          311.7953,
+          58.2979
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_361.png",
+  "imageData": null,
+  "imageHeight": 618,
+  "imageWidth": 821
+}

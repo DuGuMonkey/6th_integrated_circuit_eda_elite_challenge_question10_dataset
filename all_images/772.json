@@ -1,0 +1,362 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          482.4574,
+          161.2316
+        ],
+        [
+          504.0177,
+          172.2294
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          398.849,
+          265.9974
+        ],
+        [
+          414.6014,
+          275.3209
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          132.9465,
+          177.9417
+        ],
+        [
+          143.2355,
+          184.4699
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          48.605,
+          113.0136
+        ],
+        [
+          68.3892,
+          141.6693
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          50.7857,
+          206.1641
+        ],
+        [
+          67.5169,
+          232.2308
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          253.982,
+          151.3498
+        ],
+        [
+          274.6901,
+          164.6609
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          344.1224,
+          92.4123
+        ],
+        [
+          354.4115,
+          98.9328
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          357.8012,
+          92.8565
+        ],
+        [
+          368.0922,
+          99.3769
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          319.6075,
+          92.7566
+        ],
+        [
+          329.892,
+          99.2788
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          123.7981,
+          110.0185
+        ],
+        [
+          143.5784,
+          138.6712
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          598.0706,
+          45.1132
+        ],
+        [
+          614.6678,
+          69.7849
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          403.2346,
+          123.9514
+        ],
+        [
+          423.0103,
+          152.6025
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          346.7472,
+          45.3215
+        ],
+        [
+          366.5024,
+          69.7046
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          550.7495,
+          144.2692
+        ],
+        [
+          570.527,
+          172.9124
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          123.4009,
+          206.3937
+        ],
+        [
+          140.1238,
+          232.4519
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          323.469,
+          209.8766
+        ],
+        [
+          340.1853,
+          235.9358
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          394.1222,
+          205.643
+        ],
+        [
+          410.8513,
+          231.7054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          598.173,
+          204.6446
+        ],
+        [
+          614.9073,
+          230.7084
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          450.2779,
+          124.3589
+        ],
+        [
+          470.4276,
+          137.2994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          645.7242,
+          136.3105
+        ],
+        [
+          665.8886,
+          149.2505
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          322.2736,
+          1.1507
+        ],
+        [
+          343.7743,
+          16.6842
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          308.9234,
+          129.6703
+        ],
+        [
+          328.7098,
+          158.3337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Very low bandgap voltage reference with high PSRR enhancement stage implemented in 90nm CMOS process technology for LDO application.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 278,
+  "imageWidth": 667
+}

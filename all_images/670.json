@@ -1,0 +1,330 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "vdd",
+      "points": [
+        [
+          253.4577,
+          27.8534
+        ],
+        [
+          292.0846,
+          49.6164
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          713.0266,
+          457.2782
+        ],
+        [
+          733.2656,
+          505.1012
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          713.2034,
+          346.9122
+        ],
+        [
+          733.441,
+          394.7329
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          882.2371,
+          404.4001
+        ],
+        [
+          918.3028,
+          426.1057
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          645.6334,
+          262.9609
+        ],
+        [
+          665.9081,
+          298.6434
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          15.7975,
+          218.0221
+        ],
+        [
+          96.5711,
+          297.4811
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          331.6356,
+          513.3645
+        ],
+        [
+          398.4639,
+          586.6315
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          48.2244,
+          513.361
+        ],
+        [
+          115.0509,
+          586.6325
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          663.9225,
+          174.1623
+        ],
+        [
+          730.7567,
+          247.4391
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          492.2958,
+          289.8644
+        ],
+        [
+          559.1217,
+          363.1353
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          219.5754,
+          290.4973
+        ],
+        [
+          286.402,
+          363.7658
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          438.8577,
+          69.1196
+        ],
+        [
+          505.69,
+          142.3854
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          271.4717,
+          67.4234
+        ],
+        [
+          338.3041,
+          140.6926
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          801.6856,
+          390.3268
+        ],
+        [
+          821.9183,
+          442.2011
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          523.5321,
+          669.8411
+        ],
+        [
+          565.6856,
+          689.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          836.0686,
+          671.6751
+        ],
+        [
+          878.2228,
+          689.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          40.6931,
+          24.3203
+        ],
+        [
+          79.3106,
+          46.0811
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          480.9366,
+          25.3987
+        ],
+        [
+          519.558,
+          47.1645
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          701.1583,
+          27.6177
+        ],
+        [
+          739.7854,
+          49.3831
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          583.8317,
+          322.0865
+        ],
+        [
+          593.2096,
+          331.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Experimental behavior of Line-TFET applied to Low-Dropout Voltage Regulator.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 689,
+  "imageWidth": 963
+}

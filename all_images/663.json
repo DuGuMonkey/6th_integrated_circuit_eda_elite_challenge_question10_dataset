@@ -1,0 +1,346 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          474.2498,
+          240.1543
+        ],
+        [
+          504.165,
+          285.4765
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          395.0136,
+          28.5204
+        ],
+        [
+          419.7079,
+          36.1483
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          121.7279,
+          188.9525
+        ],
+        [
+          151.6574,
+          234.2876
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          332.924,
+          78.7719
+        ],
+        [
+          362.8521,
+          124.0995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          451.6316,
+          78.5732
+        ],
+        [
+          481.5645,
+          123.9061
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          41.7279,
+          451.2023
+        ],
+        [
+          68.3905,
+          469.1072
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          662.6915,
+          360.9377
+        ],
+        [
+          692.6241,
+          406.2637
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          394.6221,
+          480.1776
+        ],
+        [
+          421.2811,
+          498.0763
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          334.446,
+          149.7781
+        ],
+        [
+          364.371,
+          195.1072
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          662.9698,
+          189.3828
+        ],
+        [
+          692.8979,
+          234.7106
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          452.5703,
+          146.7239
+        ],
+        [
+          482.5087,
+          192.0521
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          121.8773,
+          359.4714
+        ],
+        [
+          151.8055,
+          404.8015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          295.0,
+          260.1057
+        ],
+        [
+          298.0,
+          264.1613
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          517.5167,
+          259.8994
+        ],
+        [
+          520.5179,
+          263.956
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          756.2785,
+          450.9818
+        ],
+        [
+          782.9364,
+          468.8915
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          626.7735,
+          277.6354
+        ],
+        [
+          642.552,
+          305.5767
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          173.514,
+          287.9652
+        ],
+        [
+          189.3029,
+          315.901
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          755.8574,
+          379.6242
+        ],
+        [
+          783.0804,
+          399.555
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          41.8744,
+          380.0876
+        ],
+        [
+          69.1046,
+          400.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          403.8314,
+          359.3084
+        ],
+        [
+          433.7671,
+          404.6268
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          311.0812,
+          239.8106
+        ],
+        [
+          341.0151,
+          285.1478
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of Two-Stage Fully-Differential Driver in SAR ADC with Indirect Feedback Compensation Technique.pdf_page3_image4.png",
+  "imageData": null,
+  "imageHeight": 521,
+  "imageWidth": 825
+}

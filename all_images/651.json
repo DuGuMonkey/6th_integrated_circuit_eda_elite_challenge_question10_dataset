@@ -1,0 +1,202 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          197.6687,
+          49.4443
+        ],
+        [
+          228.0,
+          74.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          197.1403,
+          87.0278
+        ],
+        [
+          227.4032,
+          113.5098
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          250.1106,
+          43.049
+        ],
+        [
+          268.4415,
+          72.849
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          216.1676,
+          181.1616
+        ],
+        [
+          233.7156,
+          192.1051
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          193.8689,
+          11.9648
+        ],
+        [
+          254.7037,
+          21.1669
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          14.0194,
+          98.5751
+        ],
+        [
+          17.0328,
+          101.775
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          150.6322,
+          60.2406
+        ],
+        [
+          153.6673,
+          63.4443
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          278.4359,
+          29.4243
+        ],
+        [
+          281.4611,
+          32.6241
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          250.9826,
+          93.7049
+        ],
+        [
+          266.8036,
+          101.8039
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          141.2667,
+          87.6318
+        ],
+        [
+          179.2101,
+          105.4141
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          220.0,
+          131.8964
+        ],
+        [
+          238.4527,
+          166.2025
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          62.7519,
+          90.2299
+        ],
+        [
+          97.6059,
+          109.8021
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of high gain Low Noise Amplifier for RF Receiver Systems.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 199,
+  "imageWidth": 303
+}

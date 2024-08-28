@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          503.2831,
+          158.5376
+        ],
+        [
+          540.3893,
+          215.7116
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          5.5027,
+          215.0995
+        ],
+        [
+          67.7927,
+          272.3679
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          12.4254,
+          310.5934
+        ],
+        [
+          55.4299,
+          333.5934
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          254.9606,
+          132.7014
+        ],
+        [
+          315.284,
+          198.1771
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          499.7078,
+          308.0409
+        ],
+        [
+          542.7083,
+          331.0424
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          282.7311,
+          309.3256
+        ],
+        [
+          325.7357,
+          332.3262
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          138.8972,
+          37.7397
+        ],
+        [
+          195.3772,
+          79.9548
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_593.png",
+  "imageData": null,
+  "imageHeight": 340,
+  "imageWidth": 581
+}

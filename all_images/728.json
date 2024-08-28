@@ -1,0 +1,250 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "voltage",
+      "points": [
+        [
+          236.2616,
+          248.8153
+        ],
+        [
+          266.7526,
+          279.8161
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          170.6364,
+          55.3643
+        ],
+        [
+          202.4015,
+          62.8932
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          125.5065,
+          159.7069
+        ],
+        [
+          143.1776,
+          166.901
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          125.6039,
+          177.3865
+        ],
+        [
+          142.9033,
+          207.2097
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          178.537,
+          245.9127
+        ],
+        [
+          195.8307,
+          283.1024
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          178.3569,
+          88.3782
+        ],
+        [
+          195.6508,
+          125.5717
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          166.6577,
+          137.3098
+        ],
+        [
+          190.609,
+          174.6339
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          167.2364,
+          196.7215
+        ],
+        [
+          191.1886,
+          234.0639
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          71.5402,
+          219.5102
+        ],
+        [
+          80.402,
+          236.3035
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          273.7115,
+          121.7688
+        ],
+        [
+          282.578,
+          138.5558
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          177.261,
+          297.2536
+        ],
+        [
+          195.0528,
+          308.4263
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          242.4928,
+          297.1313
+        ],
+        [
+          260.2894,
+          308.3001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          4.0596,
+          219.1316
+        ],
+        [
+          44.8032,
+          237.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          307.0,
+          128.9439
+        ],
+        [
+          310.0,
+          132.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          85.7208,
+          217.7525
+        ],
+        [
+          123.7099,
+          233.9093
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Optimization of noise figure and gain of a CMOS RF low noise amplifier.pdf_page2_image4.png",
+  "imageData": null,
+  "imageHeight": 331,
+  "imageWidth": 310
+}

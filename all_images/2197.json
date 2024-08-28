@@ -1,0 +1,90 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "voltage-lines",
+      "points": [
+        [
+          538.0,
+          197.0
+        ],
+        [
+          640.0,
+          238.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          235.0,
+          69.0
+        ],
+        [
+          284.0,
+          154.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          82.0,
+          191.0
+        ],
+        [
+          163.0,
+          232.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          347.0,
+          191.0
+        ],
+        [
+          429.0,
+          233.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          577.1934,
+          102.551
+        ],
+        [
+          605.1905,
+          122.5578
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Performance limits of switched-capacitor DC-DC converters_13.jpg",
+  "imageData": null,
+  "imageHeight": 337,
+  "imageWidth": 754
+}

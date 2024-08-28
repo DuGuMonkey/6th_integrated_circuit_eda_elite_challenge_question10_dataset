@@ -1,0 +1,138 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos",
+      "points": [
+        [
+          149.3455,
+          225.6139
+        ],
+        [
+          217.7781,
+          293.2428
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          500.6213,
+          197.0172
+        ],
+        [
+          527.8069,
+          215.1832
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          324.6104,
+          276.8386
+        ],
+        [
+          387.04,
+          346.8692
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          269.9809,
+          503.4576
+        ],
+        [
+          312.9858,
+          526.4561
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          174.8168,
+          105.7506
+        ],
+        [
+          230.6855,
+          160.0986
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          174.2395,
+          363.3109
+        ],
+        [
+          230.1035,
+          417.6693
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          164.6377,
+          53.3912
+        ],
+        [
+          243.5064,
+          74.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          52.3307,
+          252.9052
+        ],
+        [
+          74.2705,
+          271.0774
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_579.png",
+  "imageData": null,
+  "imageHeight": 533,
+  "imageWidth": 592
+}

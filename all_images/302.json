@@ -1,0 +1,202 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          41.7818,
+          432.9362
+        ],
+        [
+          81.7813,
+          454.9374
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage-lines",
+      "points": [
+        [
+          35.8569,
+          376.4514
+        ],
+        [
+          89.6277,
+          401.8059
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          35.7358,
+          262.7782
+        ],
+        [
+          89.7392,
+          316.7776
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          239.6186,
+          332.1949
+        ],
+        [
+          274.6123,
+          386.1965
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          202.9963,
+          190.2148
+        ],
+        [
+          266.1995,
+          263.9376
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          432.6835,
+          231.6977
+        ],
+        [
+          483.6984,
+          325.8494
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          601.8009,
+          178.4148
+        ],
+        [
+          618.2953,
+          194.9137
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          436.9643,
+          40.1586
+        ],
+        [
+          446.9633,
+          50.1512
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          504.13,
+          40.8133
+        ],
+        [
+          514.1243,
+          50.818
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          455.0551,
+          89.9439
+        ],
+        [
+          490.055,
+          143.9493
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          454.4601,
+          439.6477
+        ],
+        [
+          494.4684,
+          461.6488
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          237.5932,
+          440.1296
+        ],
+        [
+          277.5909,
+          462.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_231.png",
+  "imageData": null,
+  "imageHeight": 462,
+  "imageWidth": 636
+}

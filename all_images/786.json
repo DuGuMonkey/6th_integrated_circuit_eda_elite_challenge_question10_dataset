@@ -1,0 +1,74 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          349.0,
+          127.0
+        ],
+        [
+          379.0,
+          196.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          127.0,
+          51.0
+        ],
+        [
+          197.0,
+          80.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          34.0,
+          128.0
+        ],
+        [
+          105.0,
+          198.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          233.0,
+          153.0
+        ],
+        [
+          282.0,
+          172.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Reconfigurable Multiphase Switched Capacitor Converters based on non-binary numeral systems Ternary case_1.jpg",
+  "imageData": null,
+  "imageHeight": 264,
+  "imageWidth": 423
+}

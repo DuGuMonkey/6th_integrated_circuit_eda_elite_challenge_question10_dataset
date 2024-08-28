@@ -1,0 +1,362 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          102.1652,
+          385.7891
+        ],
+        [
+          179.7343,
+          484.164
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          334.9385,
+          385.2207
+        ],
+        [
+          412.5035,
+          483.6032
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          482.1677,
+          383.0
+        ],
+        [
+          559.7354,
+          481.3816
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          746.8861,
+          511.1764
+        ],
+        [
+          824.4526,
+          609.5584
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          882.5367,
+          510.2463
+        ],
+        [
+          960.1017,
+          608.6258
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          1210.3049,
+          433.1692
+        ],
+        [
+          1287.8741,
+          531.5404
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          1212.7824,
+          206.3148
+        ],
+        [
+          1290.3556,
+          304.6969
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          526.4851,
+          664.3047
+        ],
+        [
+          576.0656,
+          718.0105
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          667.1684,
+          66.0
+        ],
+        [
+          742.0,
+          105.7027
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          611.8579,
+          396.1619
+        ],
+        [
+          667.9233,
+          426.6764
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          1310.7263,
+          354.1722
+        ],
+        [
+          1366.7991,
+          384.6852
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          1038.5064,
+          398.6263
+        ],
+        [
+          1094.5721,
+          429.1312
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          1122.6126,
+          400.0
+        ],
+        [
+          1188.222,
+          473.8943
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          1221.5047,
+          342.2254
+        ],
+        [
+          1253.783,
+          397.2206
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          520.2052,
+          546.4607
+        ],
+        [
+          585.8204,
+          620.3514
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          480.5901,
+          204.6148
+        ],
+        [
+          558.1647,
+          302.9991
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          845.3419,
+          207.8226
+        ],
+        [
+          922.9138,
+          306.21
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          102.2313,
+          203.9705
+        ],
+        [
+          179.8037,
+          302.3569
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          338.8091,
+          206.5471
+        ],
+        [
+          416.3843,
+          304.9285
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          679.3785,
+          363.8163
+        ],
+        [
+          756.9436,
+          462.1804
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          950.4882,
+          364.9294
+        ],
+        [
+          1028.0541,
+          463.3056
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          222.7127,
+          224.1149
+        ],
+        [
+          300.2868,
+          322.4919
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_System in package of bandgap voltage reference circuit with sub-1-V operation in CMOS for communication control and BioMedical applications.pdf_page2_image6.png",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1376
+}

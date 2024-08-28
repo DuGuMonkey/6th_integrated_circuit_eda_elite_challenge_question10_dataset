@@ -1,0 +1,250 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          389.3234,
+          486.6276
+        ],
+        [
+          442.7673,
+          515.109
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          502.9332,
+          484.832
+        ],
+        [
+          555.9117,
+          516.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          512.2896,
+          65.1884
+        ],
+        [
+          546.9281,
+          141.1689
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          508.3253,
+          376.2532
+        ],
+        [
+          546.3134,
+          453.3557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          8.4197,
+          268.5451
+        ],
+        [
+          40.8176,
+          341.1731
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          6.8488,
+          156.1386
+        ],
+        [
+          38.1349,
+          228.7615
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          229.5287,
+          140.0218
+        ],
+        [
+          378.2482,
+          292.6354
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          278.0194,
+          294.577
+        ],
+        [
+          329.7472,
+          319.7868
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          0.0,
+          375.2221
+        ],
+        [
+          48.8127,
+          403.06
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          384.9656,
+          401.1384
+        ],
+        [
+          452.8686,
+          424.4118
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          134.0913,
+          192.3735
+        ],
+        [
+          181.606,
+          249.2074
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          529.8234,
+          0.0
+        ],
+        [
+          584.7502,
+          50.8458
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          304.4813,
+          110.4422
+        ],
+        [
+          362.2133,
+          162.586
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          20.1292,
+          82.5086
+        ],
+        [
+          76.9105,
+          133.7161
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          480.5749,
+          171.3617
+        ],
+        [
+          535.2046,
+          266.3073
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "95.jpg",
+  "imageData": null,
+  "imageHeight": 516,
+  "imageWidth": 600
+}

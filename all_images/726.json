@@ -1,0 +1,234 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "inductor",
+      "points": [
+        [
+          397.57,
+          35.7721
+        ],
+        [
+          442.0,
+          105.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          81.5654,
+          276.7883
+        ],
+        [
+          144.3019,
+          299.8056
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          71.9589,
+          442.8334
+        ],
+        [
+          77.6549,
+          448.4041
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          520.6308,
+          343.665
+        ],
+        [
+          578.5977,
+          419.9414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          572.7623,
+          180.8903
+        ],
+        [
+          616.8037,
+          208.9051
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          573.313,
+          369.5784
+        ],
+        [
+          617.3683,
+          397.5869
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          262.2834,
+          369.2729
+        ],
+        [
+          306.3368,
+          397.2811
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          262.7142,
+          181.1951
+        ],
+        [
+          306.7544,
+          209.2012
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          520.6364,
+          154.6706
+        ],
+        [
+          578.5934,
+          230.9596
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          211.8732,
+          155.3402
+        ],
+        [
+          269.8245,
+          231.6267
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          210.9498,
+          342.6944
+        ],
+        [
+          268.9079,
+          418.9791
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          707.5012,
+          428.9039
+        ],
+        [
+          733.6031,
+          445.3093
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          72.409,
+          120.6062
+        ],
+        [
+          76.9836,
+          126.4309
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          397.5653,
+          17.3741
+        ],
+        [
+          426.5005,
+          33.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Online harmonic current mitigation using switched capacitor active power filter.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 463,
+  "imageWidth": 809
+}

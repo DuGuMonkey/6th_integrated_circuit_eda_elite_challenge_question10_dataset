@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          309.5438,
+          346.7712
+        ],
+        [
+          352.5432,
+          368.7787
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          616.0879,
+          347.33
+        ],
+        [
+          659.0897,
+          369.3334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          161.3624,
+          47.6497
+        ],
+        [
+          215.3684,
+          101.6445
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          614.4292,
+          192.4936
+        ],
+        [
+          667.4209,
+          245.4915
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          312.6653,
+          111.2453
+        ],
+        [
+          351.6665,
+          166.2411
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          311.5441,
+          242.2133
+        ],
+        [
+          350.5417,
+          297.214
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          12.487,
+          114.3606
+        ],
+        [
+          55.4808,
+          136.3677
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_193.png",
+  "imageData": null,
+  "imageHeight": 371,
+  "imageWidth": 707
+}

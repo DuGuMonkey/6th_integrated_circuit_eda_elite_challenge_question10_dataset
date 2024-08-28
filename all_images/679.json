@@ -1,0 +1,138 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          83.7907,
+          106.3297
+        ],
+        [
+          131.162,
+          157.5442
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          83.2901,
+          184.5245
+        ],
+        [
+          129.1863,
+          236.5001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          163.0925,
+          167.6259
+        ],
+        [
+          176.0234,
+          179.133
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          37.1803,
+          123.0165
+        ],
+        [
+          50.3497,
+          134.8849
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          104.708,
+          243.3871
+        ],
+        [
+          147.8031,
+          253.9036
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          113.6984,
+          44.4739
+        ],
+        [
+          139.8834,
+          71.0796
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          106.0,
+          21.4592
+        ],
+        [
+          149.101,
+          33.9061
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          61.6262,
+          117.0209
+        ],
+        [
+          76.9091,
+          143.2208
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Gain and Bandwidth Boosting of Transimpedance Amplifier.pdf_page2_image3.png",
+  "imageData": null,
+  "imageHeight": 280,
+  "imageWidth": 223
+}

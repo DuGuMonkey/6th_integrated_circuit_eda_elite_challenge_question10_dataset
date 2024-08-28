@@ -1,0 +1,154 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          338.2852,
+          175.634
+        ],
+        [
+          358.5458,
+          215.3792
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          186.3517,
+          41.9898
+        ],
+        [
+          222.1071,
+          61.8067
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          484.99,
+          277.5823
+        ],
+        [
+          489.1052,
+          280.809
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          484.9027,
+          324.8331
+        ],
+        [
+          488.9013,
+          327.8042
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          195.4159,
+          90.3409
+        ],
+        [
+          309.2024,
+          200.3029
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          51.633,
+          271.2654
+        ],
+        [
+          71.904,
+          311.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          339.0946,
+          283.282
+        ],
+        [
+          359.3615,
+          323.0105
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          262.9115,
+          373.7989
+        ],
+        [
+          291.4049,
+          389.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          248.1853,
+          275.365
+        ],
+        [
+          305.9036,
+          328.6034
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Mutual compensation of mobility and threshold voltage temperature effects with applications in CMOS circuits.pdf_page5_image3.png",
+  "imageData": null,
+  "imageHeight": 389,
+  "imageWidth": 528
+}

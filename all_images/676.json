@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          79.405,
+          45.3167
+        ],
+        [
+          171.2807,
+          139.3519
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          256.5152,
+          168.6344
+        ],
+        [
+          295.8307,
+          207.9024
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          256.0251,
+          62.7031
+        ],
+        [
+          295.3411,
+          101.9777
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          285.3538,
+          225.9535
+        ],
+        [
+          312.0619,
+          240.3632
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          17.7012,
+          74.0395
+        ],
+        [
+          25.9033,
+          80.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          18.6718,
+          198.8151
+        ],
+        [
+          26.8759,
+          204.7728
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          291.0741,
+          4.8716
+        ],
+        [
+          295.6275,
+          8.7967
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Fully differential high-gain high-GBW operational amplifier in 250 nm BiCMOS process.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 251,
+  "imageWidth": 318
+}

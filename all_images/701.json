@@ -1,0 +1,170 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          205.4252,
+          280.7517
+        ],
+        [
+          230.3048,
+          293.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          370.4378,
+          281.0841
+        ],
+        [
+          394.0,
+          293.3084
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          55.3232,
+          77.6191
+        ],
+        [
+          81.8027,
+          100.7081
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          61.0968,
+          5.7397
+        ],
+        [
+          76.1726,
+          20.4612
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          404.0728,
+          171.0782
+        ],
+        [
+          419.158,
+          185.8093
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          104.5071,
+          90.2237
+        ],
+        [
+          141.9099,
+          107.3064
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          198.9134,
+          223.7044
+        ],
+        [
+          236.3162,
+          240.7857
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          362.6975,
+          224.6631
+        ],
+        [
+          400.0933,
+          241.7491
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          273.2443,
+          94.5922
+        ],
+        [
+          326.6714,
+          119.9663
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-input-single-end-amp",
+      "points": [
+        [
+          270.3612,
+          132.7562
+        ],
+        [
+          356.0,
+          220.7051
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Inductor-less Low-Noise CMOS Transimpedance Amplifier for OTDR Applications.pdf_page2_image2.png",
+  "imageData": null,
+  "imageHeight": 295,
+  "imageWidth": 500
+}

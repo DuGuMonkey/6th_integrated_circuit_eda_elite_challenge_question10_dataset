@@ -1,0 +1,346 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          200.4686,
+          31.3477
+        ],
+        [
+          243.7229,
+          80.6234
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          130.7609,
+          226.1659
+        ],
+        [
+          174.0274,
+          275.4326
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          13.4364,
+          226.5048
+        ],
+        [
+          56.6904,
+          275.7707
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          64.7247,
+          148.3906
+        ],
+        [
+          107.9893,
+          197.6639
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          226.9631,
+          148.3996
+        ],
+        [
+          270.2288,
+          197.6678
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          352.0,
+          198.0
+        ],
+        [
+          395.2691,
+          247.2857
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          355.686,
+          74.9882
+        ],
+        [
+          400.3022,
+          124.2564
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          92.2062,
+          29.7336
+        ],
+        [
+          135.469,
+          79.0169
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          6.2501,
+          134.1116
+        ],
+        [
+          35.2497,
+          141.1671
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          349.6354,
+          133.832
+        ],
+        [
+          368.9029,
+          170.5008
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          431.1088,
+          168.6481
+        ],
+        [
+          469.1083,
+          189.407
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          0.0,
+          166.2394
+        ],
+        [
+          41.7678,
+          210.3089
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          153.1176,
+          0.0
+        ],
+        [
+          182.106,
+          7.0541
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          152.5174,
+          185.7897
+        ],
+        [
+          190.1328,
+          199.7061
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          291.4034,
+          140.6284
+        ],
+        [
+          334.5029,
+          162.4063
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          432.7006,
+          217.4047
+        ],
+        [
+          470.3379,
+          239.1806
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          163.8746,
+          300.1714
+        ],
+        [
+          201.5086,
+          320.7793
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          78.3057,
+          21.9001
+        ],
+        [
+          83.9099,
+          27.8639
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          464.3989,
+          145.2599
+        ],
+        [
+          475.501,
+          156.8028
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          281.0678,
+          168.1299
+        ],
+        [
+          292.161,
+          179.6776
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          43.4199,
+          167.8271
+        ],
+        [
+          54.5271,
+          179.3752
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of low power- high PSRR low drop-out voltage regulator.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 321,
+  "imageWidth": 483
+}

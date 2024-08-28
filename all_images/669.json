@@ -1,0 +1,410 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          166.3818,
+          235.6367
+        ],
+        [
+          192.2155,
+          273.9178
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          68.2858,
+          32.9047
+        ],
+        [
+          97.0,
+          79.5952
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          252.9935,
+          159.1707
+        ],
+        [
+          281.7255,
+          205.8623
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          67.2007,
+          341.0151
+        ],
+        [
+          95.9393,
+          387.7016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          253.5502,
+          510.1423
+        ],
+        [
+          282.2854,
+          556.8443
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          254.7152,
+          32.3179
+        ],
+        [
+          283.4427,
+          73.3037
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          67.6972,
+          158.4458
+        ],
+        [
+          96.4225,
+          199.4347
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          257.7671,
+          341.7464
+        ],
+        [
+          286.497,
+          382.7354
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          83.1041,
+          511.8669
+        ],
+        [
+          111.8341,
+          552.858
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          20.3666,
+          170.1134
+        ],
+        [
+          41.9221,
+          182.5544
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          20.2203,
+          521.9277
+        ],
+        [
+          41.7837,
+          534.3689
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          400.0199,
+          251.7145
+        ],
+        [
+          410.9064,
+          265.2007
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          158.4014,
+          252.6353
+        ],
+        [
+          163.6808,
+          258.8677
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          28.5431,
+          337.662
+        ],
+        [
+          39.4348,
+          351.1511
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          27.4518,
+          29.3198
+        ],
+        [
+          38.3473,
+          42.8196
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          165.2819,
+          87.8208
+        ],
+        [
+          207.8827,
+          107.9297
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          165.7265,
+          428.8921
+        ],
+        [
+          208.3274,
+          448.9903
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          78.8449,
+          83.4444
+        ],
+        [
+          85.8375,
+          87.769
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          265.1202,
+          85.0933
+        ],
+        [
+          272.1275,
+          89.4187
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          78.4471,
+          211.3561
+        ],
+        [
+          85.4417,
+          215.6708
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          264.2217,
+          210.4665
+        ],
+        [
+          271.2292,
+          214.7891
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          79.6666,
+          392.5144
+        ],
+        [
+          86.65,
+          396.8316
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          268.3923,
+          393.853
+        ],
+        [
+          275.3935,
+          398.1774
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          93.2801,
+          563.8177
+        ],
+        [
+          100.2736,
+          568.1263
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          265.2179,
+          562.6437
+        ],
+        [
+          272.2145,
+          566.9681
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_ES4-4 Circuit design techniques for fully integrated voltage regulator using switched capacitors.pdf_page34_image2.png",
+  "imageData": null,
+  "imageHeight": 570,
+  "imageWidth": 431
+}

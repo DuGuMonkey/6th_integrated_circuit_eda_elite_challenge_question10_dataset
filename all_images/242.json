@@ -1,0 +1,106 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          95.2047,
+          38.8006
+        ],
+        [
+          160.9685,
+          76.777
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          198.9479,
+          77.1525
+        ],
+        [
+          298.6047,
+          178.0934
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          28.4174,
+          49.5073
+        ],
+        [
+          47.7947,
+          68.6281
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          160.7172,
+          181.6625
+        ],
+        [
+          203.2776,
+          203.8378
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          337.3534,
+          49.3774
+        ],
+        [
+          356.7255,
+          68.4976
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          216.9928,
+          42.133
+        ],
+        [
+          282.7597,
+          76.0389
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_1_image_889.png",
+  "imageData": null,
+  "imageHeight": 204,
+  "imageWidth": 388
+}

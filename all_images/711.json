@@ -1,0 +1,250 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "vdd",
+      "points": [
+        [
+          183.152,
+          15.73
+        ],
+        [
+          249.5268,
+          26.2939
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          243.6895,
+          74.0384
+        ],
+        [
+          258.4013,
+          110.7016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          282.9017,
+          85.8393
+        ],
+        [
+          294.1033,
+          97.7038
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          58.1112,
+          167.9311
+        ],
+        [
+          72.8361,
+          204.6035
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          95.7275,
+          174.1492
+        ],
+        [
+          152.2893,
+          192.1078
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          205.0,
+          42.455
+        ],
+        [
+          226.136,
+          94.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          205.3116,
+          247.3415
+        ],
+        [
+          226.4479,
+          298.8946
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          88.4878,
+          202.625
+        ],
+        [
+          109.613,
+          254.1786
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          17.872,
+          190.4259
+        ],
+        [
+          43.4091,
+          238.6072
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          14.3043,
+          242.5291
+        ],
+        [
+          47.2045,
+          272.405
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          19.6044,
+          290.7299
+        ],
+        [
+          42.1268,
+          303.501
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          92.9531,
+          261.4466
+        ],
+        [
+          107.6028,
+          271.4054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          208.0163,
+          317.4321
+        ],
+        [
+          225.202,
+          328.4076
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          188.2635,
+          110.3199
+        ],
+        [
+          224.4023,
+          161.6089
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          186.5213,
+          173.6198
+        ],
+        [
+          222.6628,
+          228.9058
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Low power- highly linear- low noise amplifier -LNA- for Ultra-Wideband applications.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 329,
+  "imageWidth": 310
+}

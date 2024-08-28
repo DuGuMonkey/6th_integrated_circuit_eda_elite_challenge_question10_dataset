@@ -1,0 +1,202 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos",
+      "points": [
+        [
+          249.8541,
+          106.362
+        ],
+        [
+          295.3022,
+          148.1047
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          392.9395,
+          295.4175
+        ],
+        [
+          419.8799,
+          310.7554
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          312.4964,
+          295.5433
+        ],
+        [
+          339.4316,
+          310.8871
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          278.8638,
+          295.665
+        ],
+        [
+          305.8002,
+          311.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          395.0234,
+          209.5859
+        ],
+        [
+          413.3473,
+          249.1409
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          283.3117,
+          231.3772
+        ],
+        [
+          301.6461,
+          270.9341
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          317.3889,
+          186.5089
+        ],
+        [
+          335.7051,
+          226.0708
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          282.6871,
+          176.5911
+        ],
+        [
+          301.0,
+          216.3061
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          266.623,
+          24.1558
+        ],
+        [
+          318.2247,
+          37.9015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          46.1098,
+          105.1051
+        ],
+        [
+          56.855,
+          115.6135
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          418.0781,
+          161.6703
+        ],
+        [
+          431.0,
+          172.3027
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          312.0635,
+          250.1754
+        ],
+        [
+          339.8013,
+          261.2046
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of low dropout regulator using artificial bee colony evolutionary algorithm.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 311,
+  "imageWidth": 480
+}

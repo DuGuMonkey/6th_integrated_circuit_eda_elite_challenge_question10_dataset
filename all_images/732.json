@@ -1,0 +1,298 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          327.8865,
+          341.9952
+        ],
+        [
+          346.2778,
+          386.2037
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          110.3008,
+          344.2231
+        ],
+        [
+          128.7018,
+          385.1002
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          328.9183,
+          71.9591
+        ],
+        [
+          345.5353,
+          110.6198
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          322.893,
+          164.0533
+        ],
+        [
+          352.1363,
+          193.4648
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          104.6699,
+          164.3865
+        ],
+        [
+          133.9045,
+          193.7955
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          201.0217,
+          275.7605
+        ],
+        [
+          256.7042,
+          299.8023
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch-3",
+      "points": [
+        [
+          203.0786,
+          9.368
+        ],
+        [
+          255.0837,
+          37.8051
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          110.2089,
+          69.257
+        ],
+        [
+          126.8299,
+          112.8103
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          104.814,
+          436.5558
+        ],
+        [
+          134.0647,
+          465.9622
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          220.236,
+          68.3595
+        ],
+        [
+          236.8414,
+          107.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          218.2235,
+          501.9915
+        ],
+        [
+          237.874,
+          514.159
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          218.4735,
+          227.8012
+        ],
+        [
+          238.1152,
+          239.9698
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          396.5308,
+          369.2665
+        ],
+        [
+          429.9503,
+          380.942
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          22.4877,
+          375.3243
+        ],
+        [
+          55.9063,
+          387.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          395.4276,
+          96.0128
+        ],
+        [
+          431.2016,
+          108.803
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          208.646,
+          159.6256
+        ],
+        [
+          248.7983,
+          176.801
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          20.6657,
+          100.0313
+        ],
+        [
+          57.0456,
+          116.6522
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          322.4221,
+          436.1781
+        ],
+        [
+          351.6678,
+          465.5993
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Resonant switched-capacitor converters for sub-module distributed photovoltaic power management.pdf_page4_image2.png",
+  "imageData": null,
+  "imageHeight": 535,
+  "imageWidth": 450
+}

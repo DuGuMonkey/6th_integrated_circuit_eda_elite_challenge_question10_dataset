@@ -1,0 +1,362 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          163.7073,
+          424.4787
+        ],
+        [
+          217.0791,
+          459.6136
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          647.2,
+          37.4704
+        ],
+        [
+          666.8674,
+          54.4768
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          311.2051,
+          39.9086
+        ],
+        [
+          330.862,
+          56.9025
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          439.915,
+          300.6296
+        ],
+        [
+          459.5778,
+          317.6349
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          522.4637,
+          303.1546
+        ],
+        [
+          542.1317,
+          320.1525
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          461.8141,
+          138.0566
+        ],
+        [
+          481.4735,
+          155.0613
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          498.8856,
+          138.0523
+        ],
+        [
+          518.5467,
+          155.0603
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          371.6969,
+          880.1626
+        ],
+        [
+          391.3521,
+          897.1652
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          692.6289,
+          881.8447
+        ],
+        [
+          712.2884,
+          898.8424
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          312.1722,
+          404.3854
+        ],
+        [
+          364.1982,
+          486.402
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          612.846,
+          404.385
+        ],
+        [
+          664.8698,
+          486.4008
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          586.5238,
+          730.205
+        ],
+        [
+          638.536,
+          812.2353
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          478.3067,
+          645.3849
+        ],
+        [
+          530.3231,
+          727.4138
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          587.7982,
+          134.9984
+        ],
+        [
+          637.1959,
+          225.0244
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          343.8675,
+          134.4038
+        ],
+        [
+          393.2684,
+          224.4324
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          761.6615,
+          423.666
+        ],
+        [
+          815.03,
+          458.8079
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          751.1049,
+          667.3914
+        ],
+        [
+          804.4716,
+          702.5352
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          467.7707,
+          777.2852
+        ],
+        [
+          506.5109,
+          835.5889
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          845.6817,
+          729.1104
+        ],
+        [
+          883.4316,
+          749.0704
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          892.0941,
+          478.8341
+        ],
+        [
+          929.8416,
+          498.7937
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          49.2845,
+          595.4022
+        ],
+        [
+          87.0373,
+          615.3634
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          41.7245,
+          502.0793
+        ],
+        [
+          95.5291,
+          558.9097
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_504.png",
+  "imageData": null,
+  "imageHeight": 935,
+  "imageWidth": 935
+}

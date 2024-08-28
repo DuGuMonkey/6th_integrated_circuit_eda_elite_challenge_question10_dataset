@@ -1,0 +1,138 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          255.3059,
+          213.3501
+        ],
+        [
+          299.0,
+          241.7089
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          159.8301,
+          214.2285
+        ],
+        [
+          203.5342,
+          242.5774
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          490.3171,
+          113.0421
+        ],
+        [
+          591.314,
+          213.0414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          308.0445,
+          32.994
+        ],
+        [
+          333.7706,
+          85.1201
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          525.9714,
+          31.8738
+        ],
+        [
+          551.703,
+          84.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          154.5594,
+          110.0332
+        ],
+        [
+          211.3752,
+          167.8165
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          682.9093,
+          51.0651
+        ],
+        [
+          699.9003,
+          67.0642
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          331.8909,
+          157.557
+        ],
+        [
+          388.7102,
+          215.3252
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_1_image_904.png",
+  "imageData": null,
+  "imageHeight": 256,
+  "imageWidth": 865
+}

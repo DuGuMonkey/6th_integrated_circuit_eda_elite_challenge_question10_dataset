@@ -1,0 +1,138 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          57.5549,
+          195.5731
+        ],
+        [
+          83.6712,
+          223.3811
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          64.1928,
+          257.702
+        ],
+        [
+          91.8072,
+          271.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          20.9079,
+          207.2062
+        ],
+        [
+          24.5917,
+          211.6566
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          194.8163,
+          138.6664
+        ],
+        [
+          198.506,
+          143.1104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          176.8104,
+          95.5656
+        ],
+        [
+          180.5045,
+          100.0149
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          134.4032,
+          126.1781
+        ],
+        [
+          160.5218,
+          153.9859
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          135.2312,
+          43.1034
+        ],
+        [
+          148.386,
+          74.3251
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          122.8642,
+          19.6059
+        ],
+        [
+          161.0315,
+          29.0218
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Low Noise Amplifier for ECG Signals.pdf_page2_image22.png",
+  "imageData": null,
+  "imageHeight": 274,
+  "imageWidth": 220
+}

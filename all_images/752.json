@@ -1,0 +1,170 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "switch",
+      "points": [
+        [
+          122.2653,
+          108.1966
+        ],
+        [
+          143.5282,
+          151.5521
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          228.0153,
+          154.8781
+        ],
+        [
+          270.5112,
+          174.3304
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          14.1484,
+          45.5427
+        ],
+        [
+          21.6647,
+          54.7225
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          16.0603,
+          254.1884
+        ],
+        [
+          23.5883,
+          263.3678
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          246.8634,
+          35.6479
+        ],
+        [
+          259.7015,
+          62.4038
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          246.5701,
+          245.5418
+        ],
+        [
+          259.4189,
+          272.3042
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          127.8785,
+          209.8145
+        ],
+        [
+          148.7023,
+          248.889
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          54.4204,
+          39.0843
+        ],
+        [
+          100.708,
+          51.608
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          355.308,
+          126.2966
+        ],
+        [
+          368.6041,
+          172.2062
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          226.9042,
+          94.2472
+        ],
+        [
+          269.4023,
+          113.7095
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Switched Capacitor Circuits in Power Systems A Survey.pdf_page4_image2.png",
+  "imageData": null,
+  "imageHeight": 277,
+  "imageWidth": 398
+}

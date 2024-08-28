@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          208.0,
+          86.0
+        ],
+        [
+          270.0,
+          120.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          291.0,
+          195.0
+        ],
+        [
+          351.0,
+          229.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diff-amp",
+      "points": [
+        [
+          146.0,
+          169.0
+        ],
+        [
+          220.0,
+          255.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          379.5209,
+          208.1208
+        ],
+        [
+          385.5051,
+          216.7015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          78.5929,
+          221.4208
+        ],
+        [
+          87.7771,
+          232.1989
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          64.9627,
+          1.2623
+        ],
+        [
+          96.3286,
+          67.1566
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          174.2592,
+          153.6335
+        ],
+        [
+          181.549,
+          161.8776
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A Low Noise and Low Power ECG Amplifier Using CMOS Two-stage OTA_6.jpg",
+  "imageData": null,
+  "imageHeight": 287,
+  "imageWidth": 435
+}

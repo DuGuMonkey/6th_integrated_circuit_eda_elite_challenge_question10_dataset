@@ -1,0 +1,426 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          73.4662,
+          299.0754
+        ],
+        [
+          97.8081,
+          317.6039
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          165.8087,
+          169.4008
+        ],
+        [
+          169.8008,
+          174.8449
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          361.4637,
+          168.4325
+        ],
+        [
+          365.6055,
+          175.1044
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          198.9212,
+          62.7354
+        ],
+        [
+          235.061,
+          99.0238
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          435.5333,
+          25.911
+        ],
+        [
+          454.0307,
+          33.5446
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          314.2859,
+          25.9127
+        ],
+        [
+          332.7882,
+          33.5494
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          192.0352,
+          25.9175
+        ],
+        [
+          210.5328,
+          33.5421
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          76.4083,
+          26.4574
+        ],
+        [
+          94.9062,
+          34.0876
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          412.726,
+          90.2183
+        ],
+        [
+          448.1042,
+          123.6762
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          420.4659,
+          253.5277
+        ],
+        [
+          447.6723,
+          286.9979
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-cross",
+      "points": [
+        [
+          266.9205,
+          253.1188
+        ],
+        [
+          294.1326,
+          286.5821
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          82.4191,
+          253.7433
+        ],
+        [
+          109.624,
+          287.2083
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          84.0761,
+          88.3832
+        ],
+        [
+          120.2155,
+          124.6807
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          291.179,
+          63.5425
+        ],
+        [
+          327.3003,
+          99.8403
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          320.0862,
+          152.7397
+        ],
+        [
+          346.8597,
+          189.0333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          178.1321,
+          152.109
+        ],
+        [
+          204.9055,
+          188.4013
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          14.7313,
+          251.3462
+        ],
+        [
+          43.1039,
+          269.3092
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          17.0,
+          211.0632
+        ],
+        [
+          42.3023,
+          227.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          109.0447,
+          170.988
+        ],
+        [
+          119.9886,
+          200.7818
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          487.3904,
+          211.7747
+        ],
+        [
+          515.209,
+          227.5086
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          411.0675,
+          169.1001
+        ],
+        [
+          422.0,
+          198.9053
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          256.5504,
+          299.1744
+        ],
+        [
+          282.4837,
+          318.3045
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          431.6878,
+          298.9088
+        ],
+        [
+          457.6237,
+          318.0215
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          488.8133,
+          250.7888
+        ],
+        [
+          514.7491,
+          269.9015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          386.1275,
+          123.2207
+        ],
+        [
+          400.3006,
+          163.1062
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          130.2241,
+          124.1811
+        ],
+        [
+          144.4055,
+          164.0645
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of Two-Stage Fully-Differential Driver in SAR ADC with Indirect Feedback Compensation Technique.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 325,
+  "imageWidth": 532
+}

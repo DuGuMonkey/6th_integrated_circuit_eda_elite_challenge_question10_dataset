@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "npn",
+      "points": [
+        [
+          284.0,
+          260.0
+        ],
+        [
+          318.0,
+          315.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          113.0,
+          69.0
+        ],
+        [
+          152.0,
+          120.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "npn",
+      "points": [
+        [
+          110.0,
+          260.0
+        ],
+        [
+          145.0,
+          317.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          277.0,
+          68.0
+        ],
+        [
+          316.0,
+          119.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          300.2638,
+          325.8093
+        ],
+        [
+          322.1054,
+          370.8869
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          291.5929,
+          491.2715
+        ],
+        [
+          327.986,
+          516.1611
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          298.3175,
+          427.8445
+        ],
+        [
+          320.1566,
+          472.9259
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A Low-Noise Fast-Startup Low-Dropout Regulator with Off-Chip Filter Capacitor_2.jpg",
+  "imageData": null,
+  "imageHeight": 526,
+  "imageWidth": 397
+}

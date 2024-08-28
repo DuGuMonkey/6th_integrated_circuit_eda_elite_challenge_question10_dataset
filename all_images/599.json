@@ -1,0 +1,90 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "voltage",
+      "points": [
+        [
+          58.7318,
+          167.6043
+        ],
+        [
+          120.7292,
+          226.9818
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          222.9833,
+          74.3414
+        ],
+        [
+          280.7634,
+          123.4414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2_3",
+      "points": [
+        [
+          546.6645,
+          159.0657
+        ],
+        [
+          594.5169,
+          235.5283
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          544.6195,
+          269.0553
+        ],
+        [
+          590.3806,
+          293.8549
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          66.2226,
+          268.4347
+        ],
+        [
+          111.9996,
+          293.236
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_785.png",
+  "imageData": null,
+  "imageHeight": 300,
+  "imageWidth": 656
+}

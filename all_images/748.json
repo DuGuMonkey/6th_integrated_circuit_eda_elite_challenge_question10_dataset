@@ -1,0 +1,266 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          503.3134,
+          819.811
+        ],
+        [
+          622.3421,
+          877.7568
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          1440.432,
+          813.6036
+        ],
+        [
+          1507.2086,
+          847.2009
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          1596.3267,
+          682.1047
+        ],
+        [
+          1663.0808,
+          715.7015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          6.308,
+          487.2778
+        ],
+        [
+          28.8152,
+          508.6717
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          6.5047,
+          601.434
+        ],
+        [
+          29.0112,
+          622.831
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          87.4174,
+          460.5928
+        ],
+        [
+          127.9958,
+          530.4596
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          84.6125,
+          576.7156
+        ],
+        [
+          125.1931,
+          646.572
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diff-amp",
+      "points": [
+        [
+          1056.227,
+          357.6822
+        ],
+        [
+          1441.91,
+          731.2088
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diff-amp",
+      "points": [
+        [
+          370.2684,
+          361.9529
+        ],
+        [
+          751.6983,
+          743.2853
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          992.7386,
+          70.0859
+        ],
+        [
+          1033.3114,
+          139.9461
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          1241.769,
+          281.5199
+        ],
+        [
+          1282.3461,
+          351.378
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          1272.571,
+          730.9767
+        ],
+        [
+          1313.1539,
+          792.8059
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          994.1519,
+          957.6007
+        ],
+        [
+          1034.7313,
+          1020.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          1596.8574,
+          557.2707
+        ],
+        [
+          1664.9091,
+          597.8095
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          1442.3036,
+          677.5753
+        ],
+        [
+          1503.2082,
+          718.1078
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          484.087,
+          220.6238
+        ],
+        [
+          603.1168,
+          278.579
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Sub--W Front-End Low Noise Amplifier for Neural Recording Applications.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 1020,
+  "imageWidth": 1701
+}

@@ -1,0 +1,314 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos",
+      "points": [
+        [
+          103.1365,
+          79.3669
+        ],
+        [
+          136.6961,
+          135.7268
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          480.1932,
+          456.0605
+        ],
+        [
+          491.0602,
+          469.8756
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          49.1911,
+          270.8698
+        ],
+        [
+          60.0769,
+          284.6693
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          356.8828,
+          320.1449
+        ],
+        [
+          389.5062,
+          339.801
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          356.7439,
+          380.5709
+        ],
+        [
+          388.3189,
+          403.9966
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          427.6868,
+          515.138
+        ],
+        [
+          459.2577,
+          538.5506
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          278.4741,
+          511.1481
+        ],
+        [
+          310.0547,
+          534.568
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          185.1339,
+          510.897
+        ],
+        [
+          216.7069,
+          534.3004
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          441.7389,
+          434.7993
+        ],
+        [
+          475.2991,
+          491.1675
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          263.8903,
+          434.5111
+        ],
+        [
+          297.4543,
+          490.8811
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          199.9773,
+          434.1268
+        ],
+        [
+          233.532,
+          491.1085
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          262.9279,
+          316.8421
+        ],
+        [
+          296.4864,
+          373.22
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          198.5771,
+          316.8466
+        ],
+        [
+          232.1369,
+          373.2106
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          412.7089,
+          250.0136
+        ],
+        [
+          446.2607,
+          306.382
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          293.1608,
+          191.4158
+        ],
+        [
+          326.7253,
+          247.7874
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          170.8186,
+          191.616
+        ],
+        [
+          204.377,
+          247.9893
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          103.2078,
+          191.7586
+        ],
+        [
+          136.7656,
+          248.1283
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          170.7619,
+          79.4425
+        ],
+        [
+          204.3275,
+          135.8116
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          185.0,
+          41.5259
+        ],
+        [
+          213.5639,
+          53.8475
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Implementation of a High PSRR Low Power CMOS Bandgap Voltage Reference Circuit.pdf_page3_image1.png",
+  "imageData": null,
+  "imageHeight": 559,
+  "imageWidth": 635
+}

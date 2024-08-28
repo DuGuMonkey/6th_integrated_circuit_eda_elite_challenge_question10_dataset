@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          474.1314,
+          218.7399
+        ],
+        [
+          496.0742,
+          236.9032
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          347.9993,
+          46.2703
+        ],
+        [
+          421.6007,
+          70.9017
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          192.1577,
+          210.2884
+        ],
+        [
+          250.6415,
+          248.6922
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          366.8161,
+          109.8507
+        ],
+        [
+          403.9128,
+          167.0308
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          344.2102,
+          262.1466
+        ],
+        [
+          393.0234,
+          353.6012
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          10.8141,
+          355.5218
+        ],
+        [
+          66.6811,
+          409.8672
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          365.5208,
+          496.5224
+        ],
+        [
+          408.5231,
+          519.5214
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_570.png",
+  "imageData": null,
+  "imageHeight": 525,
+  "imageWidth": 557
+}

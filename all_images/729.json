@@ -1,0 +1,410 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "inductor",
+      "points": [
+        [
+          98.0447,
+          314.5502
+        ],
+        [
+          121.2673,
+          351.3962
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          0.9518,
+          313.598
+        ],
+        [
+          24.1697,
+          350.4395
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          323.9967,
+          313.6664
+        ],
+        [
+          347.2134,
+          350.4942
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          422.3829,
+          313.8024
+        ],
+        [
+          445.0,
+          350.6308
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          373.6843,
+          255.1333
+        ],
+        [
+          396.9058,
+          291.9678
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          201.9723,
+          97.1325
+        ],
+        [
+          239.5002,
+          121.6077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          207.8296,
+          25.9089
+        ],
+        [
+          231.7699,
+          37.2811
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          210.8623,
+          220.2289
+        ],
+        [
+          234.8054,
+          231.6057
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          374.6242,
+          323.7189
+        ],
+        [
+          396.8451,
+          339.8496
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          49.4306,
+          323.6126
+        ],
+        [
+          71.6596,
+          339.742
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          295.6159,
+          129.0
+        ],
+        [
+          317.8348,
+          145.1256
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          170.3843,
+          128.8726
+        ],
+        [
+          192.6037,
+          145.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          271.6599,
+          285.3536
+        ],
+        [
+          307.4496,
+          322.165
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          137.5941,
+          285.3542
+        ],
+        [
+          173.3814,
+          320.6394
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          270.6323,
+          182.1821
+        ],
+        [
+          293.8916,
+          199.7851
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          144.8416,
+          182.3182
+        ],
+        [
+          168.1087,
+          199.903
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          374.1714,
+          376.9423
+        ],
+        [
+          398.7062,
+          395.1037
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          49.8512,
+          377.3483
+        ],
+        [
+          72.2086,
+          395.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          236.7931,
+          292.9032
+        ],
+        [
+          252.3578,
+          315.246
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          195.2491,
+          292.5679
+        ],
+        [
+          210.8047,
+          314.9057
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          144.7801,
+          61.6617
+        ],
+        [
+          168.0,
+          98.5074
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          270.129,
+          60.8266
+        ],
+        [
+          293.3382,
+          97.6652
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          246.8934,
+          118.1269
+        ],
+        [
+          270.1107,
+          154.9645
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          120.7129,
+          118.9466
+        ],
+        [
+          143.9357,
+          155.772
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          48.8621,
+          256.2721
+        ],
+        [
+          72.0816,
+          293.112
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Partitioning Scheme and Performance Analysis of Distributed Digital Low-Dropout Regulators in SoC.pdf_page2_image2.png",
+  "imageData": null,
+  "imageHeight": 455,
+  "imageWidth": 445
+}

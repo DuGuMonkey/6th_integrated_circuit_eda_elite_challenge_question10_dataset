@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "vdd",
+      "points": [
+        [
+          281.8032,
+          41.9069
+        ],
+        [
+          364.8081,
+          65.9023
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          519.789,
+          227.259
+        ],
+        [
+          554.782,
+          281.2521
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          298.7315,
+          228.3449
+        ],
+        [
+          352.7362,
+          281.3433
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          67.4226,
+          164.4624
+        ],
+        [
+          121.4208,
+          218.4671
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          269.2575,
+          98.7088
+        ],
+        [
+          332.8689,
+          164.7784
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          304.5504,
+          367.9357
+        ],
+        [
+          344.5569,
+          389.9396
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage-lines",
+      "points": [
+        [
+          66.3185,
+          265.5112
+        ],
+        [
+          120.0864,
+          300.9054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_228.png",
+  "imageData": null,
+  "imageHeight": 396,
+  "imageWidth": 594
+}

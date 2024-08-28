@@ -1,0 +1,618 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "inductor",
+      "points": [
+        [
+          431.9431,
+          201.8395
+        ],
+        [
+          491.5797,
+          217.3737
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          185.6062,
+          98.5353
+        ],
+        [
+          198.2011,
+          109.6687
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          297.0987,
+          98.2273
+        ],
+        [
+          309.6952,
+          109.3599
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          430.2057,
+          171.7935
+        ],
+        [
+          489.8305,
+          187.3327
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          80.8809,
+          163.4457
+        ],
+        [
+          93.4884,
+          174.5624
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          361.4182,
+          171.3582
+        ],
+        [
+          421.0431,
+          186.8905
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          158.4812,
+          163.4435
+        ],
+        [
+          171.0865,
+          174.5604
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          274.9182,
+          160.7361
+        ],
+        [
+          303.8876,
+          177.5311
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          461.5762,
+          64.1587
+        ],
+        [
+          521.1935,
+          79.6962
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          460.9409,
+          36.8545
+        ],
+        [
+          520.5602,
+          52.3928
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          390.6005,
+          37.2712
+        ],
+        [
+          450.231,
+          52.8046
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage-lines",
+      "points": [
+        [
+          155.0728,
+          35.3319
+        ],
+        [
+          169.59,
+          59.9066
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          302.466,
+          267.2718
+        ],
+        [
+          315.0622,
+          278.4032
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          518.1336,
+          267.5358
+        ],
+        [
+          530.7335,
+          278.6569
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          617.4092,
+          267.5316
+        ],
+        [
+          630.0,
+          278.6527
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage-lines",
+      "points": [
+        [
+          698.0,
+          265.7577
+        ],
+        [
+          724.8658,
+          277.9473
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          733.2569,
+          259.2544
+        ],
+        [
+          747.7637,
+          286.7681
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          204.1079,
+          87.4099
+        ],
+        [
+          223.2239,
+          121.217
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          271.617,
+          86.6696
+        ],
+        [
+          290.7384,
+          120.4687
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          70.3455,
+          179.4398
+        ],
+        [
+          104.9022,
+          200.8074
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          147.4217,
+          179.9097
+        ],
+        [
+          183.5035,
+          200.3643
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          277.403,
+          255.6448
+        ],
+        [
+          295.9772,
+          289.7055
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          491.2733,
+          256.9717
+        ],
+        [
+          509.85,
+          291.0359
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          590.9715,
+          256.5431
+        ],
+        [
+          609.5481,
+          290.6013
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          260.8542,
+          110.3399
+        ],
+        [
+          265.9325,
+          117.5071
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          228.8313,
+          89.161
+        ],
+        [
+          234.0895,
+          96.1689
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage-lines",
+      "points": [
+        [
+          30.8567,
+          257.1286
+        ],
+        [
+          57.707,
+          269.3043
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage-lines",
+      "points": [
+        [
+          329.5405,
+          171.06
+        ],
+        [
+          344.0549,
+          195.6176
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          173.5899,
+          204.3761
+        ],
+        [
+          179.965,
+          208.9152
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          266.7153,
+          280.9227
+        ],
+        [
+          271.2985,
+          286.9796
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          96.0444,
+          204.2678
+        ],
+        [
+          101.89,
+          208.8774
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          480.9268,
+          281.7891
+        ],
+        [
+          485.6528,
+          287.3805
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          581.0,
+          281.6079
+        ],
+        [
+          586.6051,
+          287.3876
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage-lines",
+      "points": [
+        [
+          243.3769,
+          169.8404
+        ],
+        [
+          257.8882,
+          194.4032
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          629.6037,
+          171.3652
+        ],
+        [
+          689.2359,
+          186.895
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          523.3779,
+          171.358
+        ],
+        [
+          583.0,
+          186.8997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage-lines",
+      "points": [
+        [
+          358.8621,
+          35.6014
+        ],
+        [
+          373.3703,
+          60.1628
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          31.0575,
+          362.8034
+        ],
+        [
+          60.0378,
+          379.6012
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "An Ultrahigh Step-Down DC-DC Converter Based on Switched-Capacitor and Coupled Inductor Techniques_0.jpg",
+  "imageData": null,
+  "imageHeight": 383,
+  "imageWidth": 773
+}

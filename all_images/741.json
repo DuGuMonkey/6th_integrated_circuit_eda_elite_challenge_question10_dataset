@@ -1,0 +1,698 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "port",
+      "points": [
+        [
+          324.237,
+          196.1275
+        ],
+        [
+          337.1445,
+          204.3486
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          419.457,
+          153.4053
+        ],
+        [
+          432.3639,
+          161.6322
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          92.457,
+          196.603
+        ],
+        [
+          105.3613,
+          204.8335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          78.6288,
+          164.0806
+        ],
+        [
+          91.5399,
+          172.3094
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          2.9903,
+          153.4863
+        ],
+        [
+          15.9044,
+          161.7072
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          376.0,
+          247.6455
+        ],
+        [
+          386.2168,
+          258.1532
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          210.9071,
+          282.4367
+        ],
+        [
+          221.1285,
+          292.9303
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          49.6265,
+          247.9065
+        ],
+        [
+          59.8327,
+          258.4046
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          206.8379,
+          15.0635
+        ],
+        [
+          225.3326,
+          22.161
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          364.8617,
+          209.0672
+        ],
+        [
+          382.2218,
+          232.9255
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          314.1753,
+          109.8067
+        ],
+        [
+          318.7705,
+          114.5015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          89.2683,
+          109.4194
+        ],
+        [
+          93.8675,
+          114.1179
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          252.8455,
+          99.9871
+        ],
+        [
+          267.4032,
+          118.1673
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          307.9369,
+          136.1636
+        ],
+        [
+          322.495,
+          154.3428
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          103.3249,
+          126.3272
+        ],
+        [
+          117.8866,
+          143.402
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          136.0149,
+          209.6762
+        ],
+        [
+          150.5763,
+          227.8535
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          208.2744,
+          251.0151
+        ],
+        [
+          222.8482,
+          269.1905
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          281.4545,
+          210.5963
+        ],
+        [
+          296.0233,
+          228.7782
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          26.3793,
+          150.6886
+        ],
+        [
+          33.6701,
+          164.683
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          106.8273,
+          161.2914
+        ],
+        [
+          114.1288,
+          175.2951
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          120.0245,
+          193.2992
+        ],
+        [
+          127.3267,
+          207.2984
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          304.0989,
+          193.6728
+        ],
+        [
+          311.3928,
+          207.679
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          329.725,
+          169.3287
+        ],
+        [
+          337.0204,
+          183.3275
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          402.8295,
+          150.5849
+        ],
+        [
+          410.1257,
+          164.5877
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          81.1818,
+          250.458
+        ],
+        [
+          86.6008,
+          255.4013
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          140.9552,
+          248.2634
+        ],
+        [
+          146.3752,
+          253.2102
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          285.889,
+          248.6466
+        ],
+        [
+          291.3088,
+          253.594
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          349.4633,
+          250.4475
+        ],
+        [
+          354.8814,
+          255.3956
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          164.0405,
+          101.3881
+        ],
+        [
+          178.6146,
+          119.5627
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          270.5878,
+          50.1849
+        ],
+        [
+          285.1493,
+          68.3627
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          145.1385,
+          49.6708
+        ],
+        [
+          159.701,
+          67.8586
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          54.4928,
+          209.3789
+        ],
+        [
+          71.8578,
+          233.2244
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          156.6421,
+          188.4419
+        ],
+        [
+          174.0,
+          212.3005
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          259.2374,
+          188.611
+        ],
+        [
+          276.6049,
+          212.475
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          365.024,
+          69.9653
+        ],
+        [
+          382.3926,
+          93.8156
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          275.8448,
+          122.0258
+        ],
+        [
+          293.2051,
+          145.8864
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          224.5536,
+          121.9019
+        ],
+        [
+          241.9139,
+          145.7577
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          189.9714,
+          121.5175
+        ],
+        [
+          207.343,
+          145.373
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          136.3985,
+          122.7909
+        ],
+        [
+          153.7535,
+          146.648
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          54.3137,
+          80.6676
+        ],
+        [
+          71.6877,
+          104.5267
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          244.4192,
+          52.0987
+        ],
+        [
+          261.7726,
+          75.9422
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          169.4451,
+          51.7505
+        ],
+        [
+          186.8059,
+          75.6092
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          345.5151,
+          172.0841
+        ],
+        [
+          358.4255,
+          180.3137
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_RF Receiver Front-End Chip Design with Antenna for Ultra-wideband Applications.pdf_page2_image8.png",
+  "imageData": null,
+  "imageHeight": 304,
+  "imageWidth": 435
+}

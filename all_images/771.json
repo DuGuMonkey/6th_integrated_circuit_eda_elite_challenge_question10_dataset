@@ -1,0 +1,314 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          270.9328,
+          21.8044
+        ],
+        [
+          283.7366,
+          42.7619
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          406.2416,
+          105.7789
+        ],
+        [
+          413.7769,
+          118.7062
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          211.6103,
+          169.5362
+        ],
+        [
+          225.5088,
+          179.2004
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          186.5288,
+          206.8393
+        ],
+        [
+          194.0565,
+          219.77
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          275.6463,
+          261.7349
+        ],
+        [
+          283.0397,
+          281.4869
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          211.7849,
+          122.4434
+        ],
+        [
+          224.5804,
+          143.4037
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          95.5856,
+          207.8394
+        ],
+        [
+          116.8043,
+          215.308
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          275.8438,
+          64.8673
+        ],
+        [
+          283.2344,
+          84.6183
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          43.6263,
+          217.4502
+        ],
+        [
+          51.4255,
+          234.3899
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          228.4188,
+          227.753
+        ],
+        [
+          241.2124,
+          250.9077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          456.3062,
+          121.4077
+        ],
+        [
+          464.103,
+          138.338
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          163.6927,
+          63.1067
+        ],
+        [
+          177.1906,
+          71.1213
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          228.1409,
+          339.2319
+        ],
+        [
+          241.6486,
+          347.247
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          163.7833,
+          26.9537
+        ],
+        [
+          176.699,
+          38.2552
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          39.9107,
+          235.7783
+        ],
+        [
+          54.9051,
+          249.7091
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          262.0228,
+          202.3549
+        ],
+        [
+          280.2192,
+          224.9528
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          227.1142,
+          281.3039
+        ],
+        [
+          242.1058,
+          294.9002
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          262.7332,
+          128.1506
+        ],
+        [
+          280.9378,
+          150.7526
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          451.9816,
+          139.9411
+        ],
+        [
+          466.9687,
+          153.541
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Ultra wideband low noise amplifier with resistive feedback and shunt inductive peaking.pdf_page3_image2.png",
+  "imageData": null,
+  "imageHeight": 359,
+  "imageWidth": 511
+}

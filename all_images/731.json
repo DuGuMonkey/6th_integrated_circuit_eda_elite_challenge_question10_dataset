@@ -1,0 +1,474 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          458.939,
+          258.3106
+        ],
+        [
+          516.4022,
+          301.8581
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          721.9402,
+          470.9841
+        ],
+        [
+          767.3084,
+          515.6006
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          238.9475,
+          580.3789
+        ],
+        [
+          284.3159,
+          624.9902
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          86.9914,
+          391.9434
+        ],
+        [
+          97.5085,
+          396.7776
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          390.7162,
+          417.5884
+        ],
+        [
+          401.2224,
+          422.4291
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          483.7968,
+          417.1574
+        ],
+        [
+          494.2903,
+          421.9981
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          483.8931,
+          388.4579
+        ],
+        [
+          494.3908,
+          393.2905
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          390.3971,
+          388.5525
+        ],
+        [
+          400.8906,
+          393.3995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          390.408,
+          227.3821
+        ],
+        [
+          400.9029,
+          232.2267
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          484.0,
+          227.589
+        ],
+        [
+          494.5047,
+          232.4215
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          483.7066,
+          195.9819
+        ],
+        [
+          494.2081,
+          200.8245
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          390.908,
+          196.1802
+        ],
+        [
+          401.406,
+          201.0208
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          391.8145,
+          35.3628
+        ],
+        [
+          402.3111,
+          40.2068
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          483.3787,
+          34.8813
+        ],
+        [
+          493.8764,
+          39.7253
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          764.593,
+          393.692
+        ],
+        [
+          770.4032,
+          403.302
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          367.4357,
+          259.0188
+        ],
+        [
+          424.9141,
+          302.5629
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          459.589,
+          447.1134
+        ],
+        [
+          517.0502,
+          490.6678
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          366.5761,
+          562.8646
+        ],
+        [
+          424.0515,
+          606.4097
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          458.7675,
+          561.8794
+        ],
+        [
+          516.2436,
+          605.4279
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          366.7703,
+          321.7585
+        ],
+        [
+          424.2538,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          459.9521,
+          322.7013
+        ],
+        [
+          517.4297,
+          377.9677
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          367.1965,
+          130.2195
+        ],
+        [
+          424.6703,
+          185.466
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          460.0429,
+          128.57
+        ],
+        [
+          517.5184,
+          183.8363
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          103.6684,
+          252.6686
+        ],
+        [
+          153.9027,
+          279.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          716.4409,
+          421.0609
+        ],
+        [
+          766.6799,
+          447.4023
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          40.9868,
+          201.0522
+        ],
+        [
+          79.0,
+          339.208
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          457.3324,
+          63.9179
+        ],
+        [
+          514.8053,
+          107.4686
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          366.7416,
+          446.0
+        ],
+        [
+          424.227,
+          489.553
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          366.5474,
+          60.0171
+        ],
+        [
+          424.0193,
+          103.5539
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Practical strategies for power-efficient computing technologies.pdf_page17_image2.png",
+  "imageData": null,
+  "imageHeight": 697,
+  "imageWidth": 800
+}

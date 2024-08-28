@@ -1,0 +1,218 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          84.8685,
+          82.4563
+        ],
+        [
+          144.9386,
+          144.569
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          75.0852,
+          196.3184
+        ],
+        [
+          96.8556,
+          236.9535
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          289.1035,
+          123.9058
+        ],
+        [
+          292.4039,
+          126.7031
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          29.4873,
+          179.909
+        ],
+        [
+          47.3048,
+          210.4047
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          154.989,
+          174.5397
+        ],
+        [
+          172.815,
+          205.043
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          197.6501,
+          180.7287
+        ],
+        [
+          215.4787,
+          211.2239
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          242.3417,
+          180.1589
+        ],
+        [
+          260.1693,
+          210.6517
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          68.9022,
+          43.0995
+        ],
+        [
+          93.9051,
+          67.7043
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          230.0911,
+          43.9911
+        ],
+        [
+          255.0908,
+          68.6045
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          152.122,
+          277.6026
+        ],
+        [
+          177.4085,
+          290.6007
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          142.8668,
+          42.8955
+        ],
+        [
+          167.8671,
+          67.508
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          151.678,
+          11.5525
+        ],
+        [
+          176.8046,
+          16.8034
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          145.3916,
+          210.8748
+        ],
+        [
+          167.15,
+          251.51
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of low voltage bandgap reference circuit using subthreshold MOSFET.pdf_page2_image3.png",
+  "imageData": null,
+  "imageHeight": 303,
+  "imageWidth": 302
+}

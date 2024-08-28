@@ -1,0 +1,154 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          288.755,
+          286.476
+        ],
+        [
+          328.7597,
+          309.4759
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          546.3316,
+          204.4785
+        ],
+        [
+          560.3333,
+          218.4773
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          139.5184,
+          44.8927
+        ],
+        [
+          193.5139,
+          81.8967
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          327.4729,
+          145.9568
+        ],
+        [
+          447.4715,
+          275.9583
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          51.2871,
+          205.9459
+        ],
+        [
+          93.2821,
+          226.9486
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          47.3314,
+          112.5342
+        ],
+        [
+          100.3303,
+          165.5375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          530.7595,
+          321.5321
+        ],
+        [
+          572.7515,
+          344.5334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          389.9969,
+          36.8933
+        ],
+        [
+          413.9977,
+          87.8949
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          545.2865,
+          272.0
+        ],
+        [
+          559.2838,
+          286.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_372.png",
+  "imageData": null,
+  "imageHeight": 349,
+  "imageWidth": 589
+}

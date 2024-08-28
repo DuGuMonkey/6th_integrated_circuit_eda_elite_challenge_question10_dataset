@@ -1,0 +1,106 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          265.0,
+          98.0
+        ],
+        [
+          290.0,
+          169.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          135.0,
+          220.0
+        ],
+        [
+          171.0,
+          247.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          342.8674,
+          59.1705
+        ],
+        [
+          351.0831,
+          68.4276
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          262.0117,
+          197.9177
+        ],
+        [
+          295.589,
+          211.6198
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          11.2423,
+          59.854
+        ],
+        [
+          20.8323,
+          66.0259
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          94.1412,
+          50.2684
+        ],
+        [
+          220.5671,
+          158.1712
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "An ultra wide-band low-noise amplifier Design and simulation using ED02AH and RFCMOS 0.18 -m technologies_10.jpg",
+  "imageData": null,
+  "imageHeight": 255,
+  "imageWidth": 352
+}

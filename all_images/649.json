@@ -1,0 +1,282 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos",
+      "points": [
+        [
+          124.5686,
+          171.9179
+        ],
+        [
+          156.2185,
+          211.5016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          188.6433,
+          74.0281
+        ],
+        [
+          220.289,
+          113.6139
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          405.7519,
+          44.3677
+        ],
+        [
+          437.4092,
+          83.952
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          502.4424,
+          43.7788
+        ],
+        [
+          534.0936,
+          83.3684
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          11.1025,
+          62.7817
+        ],
+        [
+          16.421,
+          67.6821
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          503.0624,
+          223.2667
+        ],
+        [
+          534.7175,
+          262.8536
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          406.3765,
+          223.5681
+        ],
+        [
+          438.0148,
+          263.15
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          259.559,
+          262.7103
+        ],
+        [
+          291.2095,
+          302.3087
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          146.242,
+          263.3092
+        ],
+        [
+          177.896,
+          302.8921
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          280.4098,
+          239.7896
+        ],
+        [
+          284.6592,
+          244.682
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          210.628,
+          389.0441
+        ],
+        [
+          231.3047,
+          404.9016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          362.6501,
+          14.2101
+        ],
+        [
+          382.2078,
+          20.2082
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          600.3744,
+          172.6094
+        ],
+        [
+          605.6811,
+          177.5082
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          7.4745,
+          382.4461
+        ],
+        [
+          12.7811,
+          387.3469
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          60.9275,
+          189.3499
+        ],
+        [
+          66.2313,
+          194.2447
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          367.897,
+          189.8236
+        ],
+        [
+          373.2027,
+          194.7211
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          283.5508,
+          173.099
+        ],
+        [
+          315.2031,
+          212.6816
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of Fast Start-up CMOS RC Oscillator Based on Low Temperature Coefficient Current Mode Bandgap Reference.pdf_page2_image1.png",
+  "imageData": null,
+  "imageHeight": 409,
+  "imageWidth": 612
+}

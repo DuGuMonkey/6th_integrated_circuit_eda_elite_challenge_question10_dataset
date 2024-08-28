@@ -1,0 +1,122 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          354.5831,
+          440.6631
+        ],
+        [
+          390.2346,
+          495.7719
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          41.2594,
+          130.3403
+        ],
+        [
+          76.9045,
+          185.4615
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          196.6936,
+          581.6923
+        ],
+        [
+          236.6972,
+          600.5354
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          322.1528,
+          312.5103
+        ],
+        [
+          382.2038,
+          375.369
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          52.5934,
+          315.995
+        ],
+        [
+          112.6466,
+          378.848
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          23.0898,
+          50.0211
+        ],
+        [
+          95.4844,
+          85.3771
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          369.0507,
+          146.4489
+        ],
+        [
+          385.5368,
+          162.9484
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "book_Analysis_image_279.png",
+  "imageData": null,
+  "imageHeight": 604,
+  "imageWidth": 469
+}

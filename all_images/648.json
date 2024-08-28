@@ -1,0 +1,282 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos",
+      "points": [
+        [
+          584.6371,
+          81.7188
+        ],
+        [
+          682.7817,
+          153.5431
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          96.2504,
+          228.2388
+        ],
+        [
+          194.4125,
+          300.0617
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          305.6549,
+          227.1725
+        ],
+        [
+          403.802,
+          299.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          366.4836,
+          370.2696
+        ],
+        [
+          414.9559,
+          487.8658
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          644.6848,
+          314.9105
+        ],
+        [
+          693.1517,
+          432.5253
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          733.62,
+          261.4795
+        ],
+        [
+          782.4588,
+          321.4134
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          453.7913,
+          315.7632
+        ],
+        [
+          502.6253,
+          375.7089
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          81.9758,
+          645.4413
+        ],
+        [
+          131.7093,
+          686.408
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          367.3587,
+          645.6906
+        ],
+        [
+          417.0848,
+          686.6506
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          647.0206,
+          652.4407
+        ],
+        [
+          696.7613,
+          691.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          345.2293,
+          502.199
+        ],
+        [
+          410.1142,
+          596.9389
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          624.1165,
+          505.6732
+        ],
+        [
+          689.0,
+          600.4076
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          55.3492,
+          501.507
+        ],
+        [
+          120.231,
+          596.238
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          306.151,
+          78.6007
+        ],
+        [
+          402.2036,
+          154.6037
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          200.3392,
+          0.0
+        ],
+        [
+          283.6061,
+          9.7045
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          0.0,
+          311.5322
+        ],
+        [
+          48.8337,
+          371.4797
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          92.0972,
+          77.5669
+        ],
+        [
+          195.4051,
+          162.9015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of an improved bandgap reference in 180nm CMOS process technology.pdf_page2_image6.png",
+  "imageData": null,
+  "imageHeight": 691,
+  "imageWidth": 789
+}

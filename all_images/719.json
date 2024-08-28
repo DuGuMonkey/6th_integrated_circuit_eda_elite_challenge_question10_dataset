@@ -1,0 +1,378 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos",
+      "points": [
+        [
+          404.8609,
+          322.9049
+        ],
+        [
+          473.108,
+          371.7171
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          744.5669,
+          248.7107
+        ],
+        [
+          748.602,
+          252.6483
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          744.6516,
+          380.5112
+        ],
+        [
+          748.6862,
+          384.4474
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          557.1491,
+          393.1833
+        ],
+        [
+          561.1758,
+          397.1269
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          264.7722,
+          393.0979
+        ],
+        [
+          268.8592,
+          397.0322
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          437.9289,
+          380.8376
+        ],
+        [
+          443.6425,
+          384.7676
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          438.0,
+          194.6718
+        ],
+        [
+          443.7234,
+          198.617
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          210.6354,
+          102.5918
+        ],
+        [
+          216.3487,
+          106.5277
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          184.4858,
+          194.4628
+        ],
+        [
+          190.204,
+          198.4011
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          925.8294,
+          136.0552
+        ],
+        [
+          940.4248,
+          150.4528
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          925.4952,
+          453.9495
+        ],
+        [
+          940.0968,
+          467.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          32.9833,
+          454.3743
+        ],
+        [
+          47.5807,
+          467.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          33.0,
+          136.0
+        ],
+        [
+          47.6026,
+          150.4093
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          581.9933,
+          251.1779
+        ],
+        [
+          643.0976,
+          272.6965
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          48.7236,
+          291.2677
+        ],
+        [
+          109.8288,
+          312.7764
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          289.7018,
+          251.1653
+        ],
+        [
+          350.8066,
+          272.6883
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          714.8517,
+          323.2899
+        ],
+        [
+          777.7928,
+          370.4032
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          717.3641,
+          190.9588
+        ],
+        [
+          777.3599,
+          236.5511
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          411.2111,
+          138.705
+        ],
+        [
+          471.2089,
+          184.3006
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          571.2949,
+          362.3769
+        ],
+        [
+          619.7989,
+          425.9148
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          277.8151,
+          364.3681
+        ],
+        [
+          326.3033,
+          427.9064
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          178.4642,
+          43.3686
+        ],
+        [
+          246.7002,
+          92.1722
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          152.623,
+          137.5558
+        ],
+        [
+          220.862,
+          186.3693
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Merged two-stage power converter with soft charging switched-capacitor stage in 180 nm CMOS.pdf_page5_image1.png",
+  "imageData": null,
+  "imageHeight": 467,
+  "imageWidth": 996
+}

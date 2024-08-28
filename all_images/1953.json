@@ -1,0 +1,250 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pmos",
+      "points": [
+        [
+          48.212,
+          38.3559
+        ],
+        [
+          95.0588,
+          103.0779
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          193.4261,
+          19.8802
+        ],
+        [
+          247.2931,
+          44.1641
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          317.6321,
+          39.1373
+        ],
+        [
+          364.482,
+          103.8551
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          203.2421,
+          210.7251
+        ],
+        [
+          238.5097,
+          248.7408
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          336.4771,
+          14.5893
+        ],
+        [
+          390.3302,
+          38.8641
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          382.9155,
+          167.1832
+        ],
+        [
+          398.5433,
+          184.6601
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          26.5394,
+          17.0
+        ],
+        [
+          80.405,
+          41.2823
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          50.4504,
+          134.714
+        ],
+        [
+          97.2977,
+          205.2068
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          177.9982,
+          135.6214
+        ],
+        [
+          224.8368,
+          205.6038
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          196.9528,
+          364.2462
+        ],
+        [
+          246.4035,
+          391.6135
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          344.7305,
+          205.8152
+        ],
+        [
+          379.9935,
+          243.8356
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          182.1133,
+          266.8645
+        ],
+        [
+          222.0,
+          324.8021
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          325.6092,
+          268.6977
+        ],
+        [
+          365.4994,
+          326.6463
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          48.4429,
+          264.5614
+        ],
+        [
+          88.3381,
+          322.5143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-cross",
+      "points": [
+        [
+          178.5285,
+          38.7734
+        ],
+        [
+          225.3685,
+          103.5016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A Sub-μW Bandgap Reference Circuit With an Inherent Curvature-Compensation Property_0.jpg",
+  "imageData": null,
+  "imageHeight": 400,
+  "imageWidth": 416
+}

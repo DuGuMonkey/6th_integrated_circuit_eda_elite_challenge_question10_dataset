@@ -1,0 +1,330 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor",
+      "points": [
+        [
+          104.2525,
+          83.0466
+        ],
+        [
+          125.6853,
+          93.4443
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          265.4794,
+          33.1813
+        ],
+        [
+          278.1008,
+          57.9044
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          2.4854,
+          132.5646
+        ],
+        [
+          7.5021,
+          138.3062
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          27.5472,
+          200.7853
+        ],
+        [
+          32.567,
+          206.5259
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          96.4383,
+          53.1212
+        ],
+        [
+          101.4502,
+          58.8628
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          211.9863,
+          159.1205
+        ],
+        [
+          230.4983,
+          186.2267
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          136.4747,
+          194.4283
+        ],
+        [
+          154.9856,
+          221.5245
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          50.6896,
+          180.7334
+        ],
+        [
+          69.1903,
+          207.8371
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          226.6191,
+          53.5019
+        ],
+        [
+          244.8019,
+          80.6
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          151.5669,
+          99.8616
+        ],
+        [
+          170.0704,
+          126.9662
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          137.5406,
+          33.6779
+        ],
+        [
+          156.0585,
+          60.7708
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          65.3751,
+          65.5812
+        ],
+        [
+          83.8805,
+          92.686
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          180.7057,
+          195.5605
+        ],
+        [
+          200.1802,
+          204.0264
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          263.7449,
+          285.181
+        ],
+        [
+          280.4519,
+          294.9892
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          219.8799,
+          225.1079
+        ],
+        [
+          236.5847,
+          234.9082
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          182.5243,
+          245.0184
+        ],
+        [
+          199.2414,
+          254.8167
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          144.9725,
+          248.6207
+        ],
+        [
+          161.6832,
+          258.4261
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          59.5462,
+          248.0562
+        ],
+        [
+          76.2672,
+          257.8631
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          98.3023,
+          2.1858
+        ],
+        [
+          121.184,
+          9.1062
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          254.1334,
+          244.9106
+        ],
+        [
+          272.6498,
+          272.0146
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Improved two stage ultra-wideband CMOS low noise amplifier with out band rejection using low noise active inductor.pdf_page3_image2.png",
+  "imageData": null,
+  "imageHeight": 295,
+  "imageWidth": 304
+}

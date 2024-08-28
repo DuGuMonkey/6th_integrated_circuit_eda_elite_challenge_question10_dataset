@@ -1,0 +1,266 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          447.2188,
+          518.1359
+        ],
+        [
+          481.0101,
+          539.9054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          448.7895,
+          39.882
+        ],
+        [
+          479.704,
+          51.1
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          286.3791,
+          134.0941
+        ],
+        [
+          351.8014,
+          193.5039
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          403.9458,
+          134.1092
+        ],
+        [
+          469.3797,
+          193.5079
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          76.3705,
+          199.6693
+        ],
+        [
+          210.5674,
+          364.6768
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          584.0249,
+          152.6811
+        ],
+        [
+          649.4443,
+          212.091
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          238.9605,
+          251.5087
+        ],
+        [
+          296.3049,
+          310.1022
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          459.8302,
+          410.2679
+        ],
+        [
+          517.1768,
+          468.8637
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          596.0504,
+          409.856
+        ],
+        [
+          653.3913,
+          468.4667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          629.6523,
+          516.1564
+        ],
+        [
+          663.4584,
+          537.924
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cross-line-curved",
+      "points": [
+        [
+          630.7583,
+          362.9193
+        ],
+        [
+          660.1171,
+          385.0799
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          22.4445,
+          237.2767
+        ],
+        [
+          42.3059,
+          257.2009
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          708.6794,
+          238.5551
+        ],
+        [
+          728.5336,
+          258.4936
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          708.5928,
+          367.3082
+        ],
+        [
+          728.4527,
+          387.2429
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          273.8635,
+          444.0638
+        ],
+        [
+          307.1061,
+          497.7065
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          274.5178,
+          522.6468
+        ],
+        [
+          308.3008,
+          541.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Fast Transient Low-Dropout Voltage Regulator With Hybrid Dynamic Biasing Technique for SoC Application.pdf_page3_image2.png",
+  "imageData": null,
+  "imageHeight": 541,
+  "imageWidth": 737
+}

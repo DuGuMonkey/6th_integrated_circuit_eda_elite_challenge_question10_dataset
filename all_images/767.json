@@ -1,0 +1,378 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "diode",
+      "points": [
+        [
+          345.906,
+          144.6709
+        ],
+        [
+          370.8833,
+          170.377
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "current",
+      "points": [
+        [
+          77.6473,
+          208.7876
+        ],
+        [
+          122.7083,
+          255.5706
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          0.0,
+          264.9391
+        ],
+        [
+          41.6124,
+          288.6713
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          508.845,
+          263.7181
+        ],
+        [
+          550.4483,
+          287.4552
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          155.2383,
+          44.6117
+        ],
+        [
+          220.7608,
+          61.87
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          340.2297,
+          45.7665
+        ],
+        [
+          405.7591,
+          63.0253
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          233.5535,
+          227.931
+        ],
+        [
+          299.0874,
+          245.2008
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          251.8427,
+          37.3466
+        ],
+        [
+          279.7938,
+          79.5218
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          434.0216,
+          38.2279
+        ],
+        [
+          461.9792,
+          80.3952
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          332.9906,
+          211.6731
+        ],
+        [
+          360.9412,
+          253.8499
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          580.6597,
+          176.6312
+        ],
+        [
+          608.6034,
+          218.8147
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          57.0513,
+          144.9018
+        ],
+        [
+          82.035,
+          170.6081
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          47.1919,
+          123.1299
+        ],
+        [
+          87.3577,
+          144.0675
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          135.4371,
+          123.3436
+        ],
+        [
+          175.5978,
+          144.2805
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          229.0256,
+          123.6398
+        ],
+        [
+          269.1884,
+          144.5791
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          338.4815,
+          122.9186
+        ],
+        [
+          378.6564,
+          143.8584
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          425.8669,
+          123.4989
+        ],
+        [
+          466.0268,
+          144.4332
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          518.0141,
+          123.511
+        ],
+        [
+          558.1727,
+          144.4633
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          143.594,
+          145.0428
+        ],
+        [
+          168.5785,
+          170.7344
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          237.9581,
+          145.1653
+        ],
+        [
+          262.9232,
+          170.8504
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          433.155,
+          145.2894
+        ],
+        [
+          458.1324,
+          170.9792
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "diode",
+      "points": [
+        [
+          526.7961,
+          145.2896
+        ],
+        [
+          551.7615,
+          170.9779
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          572.6741,
+          225.0714
+        ],
+        [
+          618.7436,
+          249.1808
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_The effect of circuit parasitics on resonant switched capacitor converters.pdf_page2_image2.png",
+  "imageData": null,
+  "imageHeight": 292,
+  "imageWidth": 671
+}

@@ -1,0 +1,186 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          121.9647,
+          53.2045
+        ],
+        [
+          156.8008,
+          68.1047
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          239.0262,
+          81.562
+        ],
+        [
+          273.8608,
+          96.4614
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          3.1742,
+          65.9252
+        ],
+        [
+          44.2941,
+          107.4143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          9.9796,
+          129.5462
+        ],
+        [
+          39.6019,
+          145.8092
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          125.4179,
+          131.243
+        ],
+        [
+          155.0486,
+          147.509
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          292.2947,
+          120.0402
+        ],
+        [
+          321.9204,
+          136.3062
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          99.5084,
+          30.4278
+        ],
+        [
+          115.6371,
+          40.2074
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          160.394,
+          30.1963
+        ],
+        [
+          176.5244,
+          39.9702
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          160.4939,
+          76.8428
+        ],
+        [
+          176.6253,
+          86.6252
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "switch",
+      "points": [
+        [
+          131.2687,
+          95.4169
+        ],
+        [
+          142.8024,
+          112.5009
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          292.9838,
+          64.5913
+        ],
+        [
+          321.9025,
+          106.4766
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_ES4-4 Circuit design techniques for fully integrated voltage regulator using switched capacitors.pdf_page19_image2.png",
+  "imageData": null,
+  "imageHeight": 161,
+  "imageWidth": 349
+}

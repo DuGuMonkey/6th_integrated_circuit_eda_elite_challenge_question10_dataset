@@ -1,0 +1,250 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          409.5166,
+          228.7429
+        ],
+        [
+          432.6993,
+          274.5292
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          340.255,
+          229.3872
+        ],
+        [
+          363.4318,
+          275.1663
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          99.4525,
+          228.5885
+        ],
+        [
+          122.6355,
+          274.3694
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor2",
+      "points": [
+        [
+          20.0345,
+          227.7255
+        ],
+        [
+          43.2048,
+          273.5007
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          441.5811,
+          128.0594
+        ],
+        [
+          496.3019,
+          192.8014
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "single-end-amp",
+      "points": [
+        [
+          155.8096,
+          103.4759
+        ],
+        [
+          223.5485,
+          158.1822
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          180.0153,
+          370.1077
+        ],
+        [
+          201.9713,
+          382.7481
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          547.4005,
+          156.648
+        ],
+        [
+          555.2103,
+          163.8462
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          181.417,
+          45.9706
+        ],
+        [
+          196.7475,
+          57.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          186.3259,
+          7.3532
+        ],
+        [
+          194.1398,
+          14.5695
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          102.4909,
+          302.9584
+        ],
+        [
+          138.7351,
+          339.9165
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          394.1402,
+          58.0955
+        ],
+        [
+          423.7899,
+          95.6394
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          243.5373,
+          58.2553
+        ],
+        [
+          273.1681,
+          95.796
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pnp",
+      "points": [
+        [
+          243.5307,
+          302.8047
+        ],
+        [
+          279.771,
+          339.7678
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          108.4123,
+          57.3874
+        ],
+        [
+          138.0511,
+          94.9207
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Review of Bandgap Voltage Reference Architectures for Long-Range Passive RFID Applications.pdf_page2_image12.png",
+  "imageData": null,
+  "imageHeight": 392,
+  "imageWidth": 562
+}

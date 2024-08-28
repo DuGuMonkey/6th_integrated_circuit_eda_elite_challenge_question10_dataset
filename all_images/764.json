@@ -1,0 +1,138 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          224.1491,
+          96.5249
+        ],
+        [
+          274.5043,
+          112.8796
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          306.524,
+          38.5075
+        ],
+        [
+          391.0913,
+          64.9405
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          108.6799,
+          38.0228
+        ],
+        [
+          193.235,
+          64.4637
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          48.4125,
+          59.0865
+        ],
+        [
+          55.5063,
+          67.3008
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          146.8987,
+          21.3141
+        ],
+        [
+          153.9801,
+          29.5426
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          445.7719,
+          59.8973
+        ],
+        [
+          452.8615,
+          68.1266
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          345.1818,
+          21.6659
+        ],
+        [
+          352.2711,
+          29.8848
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          223.6526,
+          141.6338
+        ],
+        [
+          278.1029,
+          163.4509
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Switched-capacitor filter design for ECG application using 180nm CMOS technology.pdf_page1_image1.png",
+  "imageData": null,
+  "imageHeight": 167,
+  "imageWidth": 519
+}

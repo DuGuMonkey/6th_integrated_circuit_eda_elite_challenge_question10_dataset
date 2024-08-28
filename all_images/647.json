@@ -1,0 +1,346 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "nmos",
+      "points": [
+        [
+          701.4447,
+          232.4336
+        ],
+        [
+          742.4135,
+          275.2028
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          148.5042,
+          8.5021
+        ],
+        [
+          200.1041,
+          17.7049
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          433.3045,
+          8.6687
+        ],
+        [
+          484.9006,
+          17.8676
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          713.9948,
+          10.6565
+        ],
+        [
+          765.5957,
+          19.8596
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "inductor",
+      "points": [
+        [
+          646.5046,
+          240.634
+        ],
+        [
+          690.6019,
+          257.6355
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          19.8967,
+          187.1663
+        ],
+        [
+          24.4238,
+          192.8852
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          207.8546,
+          186.1545
+        ],
+        [
+          212.3807,
+          191.8764
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          306.9224,
+          186.1549
+        ],
+        [
+          311.4594,
+          191.8796
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          492.2904,
+          186.3437
+        ],
+        [
+          496.8384,
+          192.0672
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          582.7313,
+          188.2171
+        ],
+        [
+          587.2761,
+          193.949
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          774.0223,
+          187.8411
+        ],
+        [
+          778.5647,
+          193.5656
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          422.8893,
+          231.9468
+        ],
+        [
+          463.0,
+          271.7048
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          135.2246,
+          230.421
+        ],
+        [
+          176.1921,
+          273.2075
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos",
+      "points": [
+        [
+          701.6946,
+          119.6282
+        ],
+        [
+          742.6686,
+          162.4053
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          423.9256,
+          116.8177
+        ],
+        [
+          464.8919,
+          159.581
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos",
+      "points": [
+        [
+          136.7546,
+          117.5336
+        ],
+        [
+          177.7246,
+          160.3125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          377.8349,
+          179.069
+        ],
+        [
+          426.3095,
+          199.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          657.9094,
+          182.7558
+        ],
+        [
+          706.3796,
+          202.695
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          163.1357,
+          387.082
+        ],
+        [
+          185.0,
+          405.7008
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          448.0,
+          387.4453
+        ],
+        [
+          471.3029,
+          406.707
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          727.0,
+          387.7964
+        ],
+        [
+          750.3094,
+          407.0506
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Design of a Wideband CMOS Low Noise Amplifier based on Inverter Structure using Inductor Peaking Technique.pdf_page2_image4.png",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 829
+}

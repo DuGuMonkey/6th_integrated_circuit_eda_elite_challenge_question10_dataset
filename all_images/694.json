@@ -1,0 +1,170 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          276.9883,
+          310.0756
+        ],
+        [
+          303.7572,
+          328.019
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          175.1317,
+          69.7567
+        ],
+        [
+          204.3068,
+          114.103
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "vdd",
+      "points": [
+        [
+          188.3745,
+          18.8729
+        ],
+        [
+          214.2842,
+          31.3759
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          174.5137,
+          259.7087
+        ],
+        [
+          204.9027,
+          304.1051
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nmos-bulk",
+      "points": [
+        [
+          172.8643,
+          339.3069
+        ],
+        [
+          203.8096,
+          383.7047
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          185.7413,
+          417.6279
+        ],
+        [
+          215.8631,
+          438.7499
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          14.8518,
+          164.559
+        ],
+        [
+          24.6089,
+          179.6134
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          15.7198,
+          274.8305
+        ],
+        [
+          25.4699,
+          289.893
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "port",
+      "points": [
+        [
+          372.1243,
+          214.2033
+        ],
+        [
+          381.8705,
+          229.2679
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          175.7095,
+          149.598
+        ],
+        [
+          204.8756,
+          193.956
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "paper_Implementation and analysis of fast locking 5GHz phase locked loop.pdf_page2_image3.png",
+  "imageData": null,
+  "imageHeight": 446,
+  "imageWidth": 389
+}

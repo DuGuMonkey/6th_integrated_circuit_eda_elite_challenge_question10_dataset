@@ -1,0 +1,234 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gnd",
+      "points": [
+        [
+          420.1702,
+          696.3909
+        ],
+        [
+          466.9331,
+          729.4322
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          105.0797,
+          694.6335
+        ],
+        [
+          151.8376,
+          727.6726
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          834.1982,
+          213.1853
+        ],
+        [
+          865.7026,
+          258.4188
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pmos-bulk",
+      "points": [
+        [
+          554.0309,
+          242.9209
+        ],
+        [
+          628.8579,
+          360.9582
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          413.6515,
+          528.5368
+        ],
+        [
+          466.7673,
+          637.8054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          865.0336,
+          488.3733
+        ],
+        [
+          961.9809,
+          589.5427
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          385.5632,
+          317.6831
+        ],
+        [
+          411.0324,
+          376.5214
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          592.7235,
+          525.5091
+        ],
+        [
+          645.8465,
+          634.7703
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          772.5368,
+          523.9598
+        ],
+        [
+          825.6551,
+          633.2252
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "resistor",
+      "points": [
+        [
+          593.4513,
+          127.8681
+        ],
+        [
+          655.6822,
+          237.1221
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          785.2566,
+          206.671
+        ],
+        [
+          814.7608,
+          262.5243
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "capacitor",
+      "points": [
+        [
+          743.0929,
+          313.1179
+        ],
+        [
+          766.2836,
+          382.668
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "voltage",
+      "points": [
+        [
+          83.0485,
+          511.559
+        ],
+        [
+          178.9574,
+          609.5714
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gnd",
+      "points": [
+        [
+          775.9401,
+          697.4164
+        ],
+        [
+          822.707,
+          730.4533
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "125.jpg",
+  "imageData": null,
+  "imageHeight": 841,
+  "imageWidth": 1027
+}
